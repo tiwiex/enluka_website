@@ -164,7 +164,7 @@ We provide solutions in digital strategy development, product and service innova
              </div>  
          </div> 
      
-         <div class="bg-rules mb-4 mb-lg-0 py-3 py-lg-0" style="background-image: url(assets/custom/enluka_images/woman-travel.jpg)">  
+         <div class="bg-rules mb-4 mb-lg-0 py-3 py-lg-0" style="background-image: url(assets/custom/enluka_images/charity.jpg)">  
                <div class="container-fluid">             
                     <div class="row overflow-hidden">    
                         <div class="col-12 col-lg-6 offset-lg-6 p-lg-0">  
