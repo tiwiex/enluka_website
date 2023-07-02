@@ -128,10 +128,13 @@ include 'includes/navigation.php';
                                 <h2 class="fables-second-text-color my-0 font-30 font-weight-bold position-relative z-index wow fadeInRight" data-wow-duration="2s">Retail & Fast-Moving Consumer Goods (FMCG)
 </h2>
                                 <p class="fables-fifth-text-color position-relative z-index mt-4 mb-4 mb-md-5 wow fadeInRight" data-wow-duration="2s">
-                                Consumer demands are shifting at an exponential rate. So how can you keep ahead of the game? And how do you get there before your competitors? Our team has the answer.
-Retail and consumer goods companies must consider ESG, omnichannel business models, and the sustainability and stability of their supply chain if they want to compete in today’s market and retain investment.
-Our retail and consumer goods consultants bring a diverse mix of experience which has been developed via line-roles within the industry in the European, North American and APAC markets. Connect with us today to find out how we can help you.
-How we can help
+                                Consumer demands are shifting at an exponential rate. So how can you keep ahead of the game? 
+                                And how do you get there before your competitors? Our team has the answer. <br><br>
+Retail and consumer goods companies must consider ESG, omnichannel business models, and the sustainability and stability of their 
+supply chain if they want to compete in today’s market and retain investment.
+Our retail and consumer goods consultants bring a diverse mix of experience which has been developed via line-roles within 
+the industry in the European, North American and APAC markets. Connect with us today to find out how we can help you. <br><br>
+<b>How we can help</b><br>
 Whatever the challenge, our team of experts have the tools to build you bespoke, sustainable and market-leading digital solutions that’ll enable you to stay ahead of the game. 
 
 </p>     
@@ -151,9 +154,13 @@ Whatever the challenge, our team of experts have the tools to build you bespoke,
 </h2>
                             <p class="fables-forth-text-color position-relative z-index mt-4 mb-4 mb-md-5 wow fadeInLeft" data-wow-duration="2s">
                                   
-                            We have extensive experience in delivering market-leading and transformative solutions across a broad scope of financial services disciplines. Financial services firms need to establish themselves and act as innovators, disruptors, market leaders, and venture capitalists. They need to open doors to organic, sustainable, and strategic growth. 
-How we can help you
-We provide solutions in digital strategy development, product and service innovation, operational, tactile, and digital transformation, and operating models, and regulatory remediation. So, no matter the challenge, our team’s industry-leading expertise, coupled with our global, open innovation network, made up of entrepreneurs, startups, venture capital firms and accelerators, can craft you a bespoke, unique and top-of-the-market solution. Connect with us today so we can get started.
+                            We have extensive experience in delivering market-leading and transformative solutions across a 
+                            broad scope of financial services disciplines. <br><br>Financial services firms need to establish 
+                            themselves and act as innovators, disruptors, market leaders, and venture capitalists. 
+                            They need to open doors to organic, sustainable, and strategic growth. <br><br>
+<b>How we can help you</b> <br>
+We provide solutions in digital strategy development, product and service innovation, operational, tactile, and digital transformation, 
+and operating models, and regulatory remediation. <br><br>So, no matter the challenge, our team’s industry-leading expertise, coupled with our global, open innovation network, made up of entrepreneurs, startups, venture capital firms and accelerators, can craft you a bespoke, unique and top-of-the-market solution. Connect with us today so we can get started.
 
                               </p>
                             <a href="" class="btn fables-second-border-color fables-second-text-color fables-btn-rouned fables-hover-btn-color font-19 px-5 py-2 position-relative z-index wow fadeInLeft" data-wow-duration="2s"><span>Contact Us</span></a>
@@ -173,10 +180,15 @@ We provide solutions in digital strategy development, product and service innova
 </h2>
                                 <p class="fables-fifth-text-color position-relative z-index mt-4 mb-4 mb-md-5 wow fadeInRight" data-wow-duration="2s">
                                 
-                                Not-for-Profit| Social Enterprise | NGOs
-After a challenging couple of years for organisations in the charity and not-for-profit sector, it’s now more important than ever for firms to understand their audience and adapt accordingly. Our team of experts can help you operate as efficiently as possible while exploiting technology to ensure you’re reaching your key audience groups.
-How we can help you
-Our team of industry professionals, experts and entrepreneurs will work with your team to identify problems, then build and implement bespoke, market-leading digital solutions that harness the latest in technology and innovation. Not only are your problems solved, you’ll also have the tools to truly stand out and establish a long relationship with a reliable implementation partner. 
+                                Not-for-Profit| Social Enterprise | NGOs <br>
+After a challenging couple of years for organisations in the charity and not-for-profit sector, 
+it’s now more important than ever for firms to understand their audience and adapt accordingly. 
+Our team of experts can help you operate as efficiently as possible while exploiting technology 
+to ensure you’re reaching your key audience groups. <br><br>
+<b>How we can help you</b> <br>
+Our team of industry professionals, experts and entrepreneurs will work with your team to identify problems, 
+then build and implement bespoke, market-leading digital solutions that harness the latest in technology and innovation. 
+<br><br>Not only are your problems solved, you’ll also have the tools to truly stand out and establish a long relationship with a reliable implementation partner. 
 
                               </p>
                             </div>
@@ -199,9 +211,13 @@ Our team of industry professionals, experts and entrepreneurs will work with you
 </h2>
                             <p class="fables-forth-text-color position-relative z-index mt-4 mb-4 mb-md-5 wow fadeInLeft" data-wow-duration="2s">
                                   
-                            Shifting landscapes are challenging traditional telecommunications business models, making way for new pathways for competitors. This is driving price pressure and an increasing need for firms to differentiate their services. The telecommunications industry has gone through many phases of disruption, but as advancements like fixed wireless and 5G become viable solutions, competitive barriers are beginning to fall.
-How we can help you
-We ensure that any solution is not only successful, but also truly differentiates you in the market. Let us help you navigate this ever-changing industry, together. Connect with us today.
+                            Shifting landscapes are challenging traditional telecommunications business models, making way for new 
+                            pathways for competitors. This is driving price pressure and an increasing need for firms to differentiate 
+                            their services. <br><br> The telecommunications industry has gone through many phases of disruption, but as 
+                            advancements like fixed wireless and 5G become viable solutions, competitive barriers are beginning to fall. <br><br>
+                            <b>How we can help you</b> <br>
+We ensure that any solution is not only successful, but also truly differentiates you in the market. 
+Let us help you navigate this ever-changing industry, together. Connect with us today.
 
                               </p>
                             <a href="" class="btn fables-second-border-color fables-second-text-color fables-btn-rouned fables-hover-btn-color font-19 px-5 py-2 position-relative z-index wow fadeInLeft" data-wow-duration="2s"><span>Contact Us</span></a>
@@ -221,8 +237,12 @@ We ensure that any solution is not only successful, but also truly differentiate
 </h2>
                                 <p class="fables-fifth-text-color position-relative z-index mt-4 mb-4 mb-md-5 wow fadeInRight" data-wow-duration="2s">
                                 
-                                With oil and gas prices reaching their highest levels in years, the current state of the industry delivered a shock to the utility industry and raises long-term questions about how consumers choose to heat their homes. The increase in digitalisation and the use of advanced data analytics is prospected to grow to transform the chemical industry. These tools will help drive innovation, productivity and profitability, giving businesses an advantage.
-How we can help you
+                                With oil and gas prices reaching their highest levels in years, the current state of the 
+                                industry delivered a shock to the utility industry and raises long-term questions about how consumers 
+                                choose to heat their homes. <br><br> The increase in digitalisation and the use of advanced data analytics is 
+                                prospected to grow to transform the chemical industry. These tools will help drive innovation, productivity 
+                                and profitability, giving businesses an advantage. <br><br>
+                                <b>How we can help you</b> <br>
 At Enluka we can help create the innovative edge that will put your businesses in front of competitors in this time of change. Connect with us today to find out how.
 
                               </p>
