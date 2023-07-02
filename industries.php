@@ -119,7 +119,7 @@ include 'includes/navigation.php';
 
 
                 
-       
+       <section id="retail" class="retail"> 
            <div class="bg-rules mb-4 mb-lg-0 py-3 py-lg-0" style="background-image: url(assets/custom/enluka_images/retail.jpg)">  
                <div class="container-fluid">             
                     <div class="row overflow-hidden">    
@@ -145,6 +145,10 @@ Whatever the challenge, our team of experts have the tools to build you bespoke,
                     </div>
               </div>
             </div>
+
+</section>
+
+<section id="financial" class="financial">
             <div class="bg-rules mb-4 py-3 py-lg-0" style="background-image: url(assets/custom/enluka_images/financial_services.jpg)"> 
                  <div class="container-fluid">
                    <div class="row overflow-hidden"> 
@@ -170,7 +174,8 @@ and operating models, and regulatory remediation. <br><br>So, no matter the chal
                 </div>
              </div>  
          </div> 
-     
+</section>
+<section id="charity" class="charity">
          <div class="bg-rules mb-4 mb-lg-0 py-3 py-lg-0" style="background-image: url(assets/custom/enluka_images/charity.jpg)">  
                <div class="container-fluid">             
                     <div class="row overflow-hidden">    
@@ -201,7 +206,9 @@ then build and implement bespoke, market-leading digital solutions that harness 
        
             </div> 
     </div>
+</section>
 
+<section id="telecommunication" class="telecommunication">
     <div class="bg-rules mb-4 py-3 py-lg-0" style="background-image: url(assets/custom/enluka_images/telecommunication1.jpg)"> 
                  <div class="container-fluid">
                    <div class="row overflow-hidden"> 
@@ -227,7 +234,10 @@ Let us help you navigate this ever-changing industry, together. Connect with us 
                 </div>
              </div>  
          </div> 
-     
+</section>
+
+<section id="energy" class="energy">
+
          <div class="bg-rules mb-4 mb-lg-0 py-3 py-lg-0" style="background-image: url(assets/custom/enluka_images/utilities_energy.jpg)">  
                <div class="container-fluid">             
                     <div class="row overflow-hidden">    
@@ -256,6 +266,10 @@ At Enluka we can help create the innovative edge that will put your businesses i
        
             </div> 
     </div>
+</section>
+
+
+<section id="healthcare" class="healthcare">
      
     <div class="bg-rules mb-4 py-3 py-lg-0" style="background-image: url(assets/custom/enluka_images/health_care.jpg)"> 
                  <div class="container-fluid">
@@ -279,7 +293,9 @@ Our team of consultants have the tools to build you bespoke, sustainable and mar
                 </div>
              </div>  
          </div> 
-     
+</section>
+
+<section id="business" class="business">
          <div class="bg-rules mb-4 mb-lg-0 py-3 py-lg-0" style="background-image: url(assets/custom/enluka_images/business_IT.jpg)">  
                <div class="container-fluid">             
                     <div class="row overflow-hidden">    
@@ -305,6 +321,9 @@ Through our business consulting services, we ensure that our clients stay releva
        
             </div> 
     </div>
+
+</section>
+<section id="travel" class="travel">
     <div class="bg-rules mb-4 py-3 py-lg-0" style="background-image: url(assets/custom/enluka_images/woman-travel.jpg)"> 
                  <div class="container-fluid">
                    <div class="row overflow-hidden"> 
@@ -332,6 +351,7 @@ to provide bespoke services to our clients across a spectrum of sectors and chal
                 </div>
              </div>  
          </div>  
+</section>
 
     <div class="container-fluid"> 
            <div class="row overflow-hidden">

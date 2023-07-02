@@ -72,23 +72,23 @@
                                             Industries
                                         </a>
                                         <ul class="dropdown-menu" aria-labelledby="sub-nav6">
-                                            <li><a class="dropdown-item" href="digital_transformation">Retail & Fast-Moving Consumer Goods (FMCG)
+                                            <li><a class="dropdown-item" href="industries#retail">Retail & Fast-Moving Consumer Goods (FMCG)
 </a></li>
-                                            <li><a class="dropdown-item" href="business_transformation">Financial Services
+                                            <li><a class="dropdown-item" href="industries#financial">Financial Services
 </a></li>
-                                            <li><a class="dropdown-item" href="business_transformation">Charity</a></li>
-                                            <li><a class="dropdown-item" href="business_transformation">Telecommunications
+                                            <li><a class="dropdown-item" href="industries#charity">Charity</a></li>
+                                            <li><a class="dropdown-item" href="industries#telecommunication">Telecommunication
 </a></li>
-                                            <li><a class="dropdown-item" href="business_transformation">Energy, Resources & Utilities
+                                            <li><a class="dropdown-item" href="industries#energy">Energy, Resources & Utilities
 
 </a></li>
-                                            <li><a class="dropdown-item" href="business_transformation">Healthcare & Pharmaceuticals
+                                            <li><a class="dropdown-item" href="industries#healthcare">Healthcare & Pharmaceuticals
 
 </a></li>
-                                            <li><a class="dropdown-item" href="business_transformation">Business IT Services
+                                            <li><a class="dropdown-item" href="industries#business">Business IT Services
 
 </a></li>
-                                            <li><a class="dropdown-item" href="business_transformation">Travel & Hospitality 
+                                            <li><a class="dropdown-item" href="industries#travel">Travel & Hospitality 
 
 </a></li>
                                         </ul>
