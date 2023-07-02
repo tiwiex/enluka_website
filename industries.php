@@ -120,7 +120,7 @@ include 'includes/navigation.php';
 
                 
        
-           <div class="bg-rules mb-4 mb-lg-0 py-3 py-lg-0" style="background-image: url(assets/custom/images/mission-img.jpg)">  
+           <div class="bg-rules mb-4 mb-lg-0 py-3 py-lg-0" style="background-image: url(assets/custom/enluka_images/retail.jpg)">  
                <div class="container-fluid">             
                     <div class="row overflow-hidden">    
                         <div class="col-12 col-lg-6 offset-lg-6 p-lg-0">  
@@ -142,7 +142,7 @@ Whatever the challenge, our team of experts have the tools to build you bespoke,
                     </div>
               </div>
             </div>
-            <div class="bg-rules mb-4 py-3 py-lg-0" style="background-image: url(assets/custom/images/vision-img.jpg)"> 
+            <div class="bg-rules mb-4 py-3 py-lg-0" style="background-image: url(assets/custom/enluka_images/financial_services.jpg)"> 
                  <div class="container-fluid">
                    <div class="row overflow-hidden"> 
                     <div class="col-12 col-lg-6 p-lg-0"> 
@@ -190,7 +190,7 @@ Our team of industry professionals, experts and entrepreneurs will work with you
             </div> 
     </div>
 
-    <div class="bg-rules mb-4 py-3 py-lg-0" style="background-image: url(assets/custom/images/vision-img.jpg)"> 
+    <div class="bg-rules mb-4 py-3 py-lg-0" style="background-image: url(assets/custom/enluka_images/telecommunication1.jpg)"> 
                  <div class="container-fluid">
                    <div class="row overflow-hidden"> 
                     <div class="col-12 col-lg-6 p-lg-0"> 
@@ -212,7 +212,7 @@ We ensure that any solution is not only successful, but also truly differentiate
              </div>  
          </div> 
      
-         <div class="bg-rules mb-4 mb-lg-0 py-3 py-lg-0" style="background-image: url(assets/custom/enluka_images/woman-travel.jpg)">  
+         <div class="bg-rules mb-4 mb-lg-0 py-3 py-lg-0" style="background-image: url(assets/custom/enluka_images/utilities_energy.jpg)">  
                <div class="container-fluid">             
                     <div class="row overflow-hidden">    
                         <div class="col-12 col-lg-6 offset-lg-6 p-lg-0">  
@@ -237,7 +237,7 @@ At Enluka we can help create the innovative edge that will put your businesses i
             </div> 
     </div>
      
-    <div class="bg-rules mb-4 py-3 py-lg-0" style="background-image: url(assets/custom/images/vision-img.jpg)"> 
+    <div class="bg-rules mb-4 py-3 py-lg-0" style="background-image: url(assets/custom/enluka_images/health_care.jpg)"> 
                  <div class="container-fluid">
                    <div class="row overflow-hidden"> 
                     <div class="col-12 col-lg-6 p-lg-0"> 
@@ -260,7 +260,7 @@ Our team of consultants have the tools to build you bespoke, sustainable and mar
              </div>  
          </div> 
      
-         <div class="bg-rules mb-4 mb-lg-0 py-3 py-lg-0" style="background-image: url(assets/custom/enluka_images/woman-travel.jpg)">  
+         <div class="bg-rules mb-4 mb-lg-0 py-3 py-lg-0" style="background-image: url(assets/custom/enluka_images/business_IT.jpg)">  
                <div class="container-fluid">             
                     <div class="row overflow-hidden">    
                         <div class="col-12 col-lg-6 offset-lg-6 p-lg-0">  
@@ -285,7 +285,7 @@ Through our business consulting services, we ensure that our clients stay releva
        
             </div> 
     </div>
-    <div class="bg-rules mb-4 py-3 py-lg-0" style="background-image: url(assets/custom/images/vision-img.jpg)"> 
+    <div class="bg-rules mb-4 py-3 py-lg-0" style="background-image: url(assets/custom/enluka_images/woman-travel.jpg)"> 
                  <div class="container-fluid">
                    <div class="row overflow-hidden"> 
                     <div class="col-12 col-lg-6 p-lg-0"> 
