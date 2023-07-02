@@ -17,7 +17,7 @@
                 <div class="error-message"></div>
                 <div class="sent-message">Your message has been sent. Thank you!</div>
               </div>                    
-                      <button type="submit" class="btn fables-second-background-color rounded-0 text-white btn-block p-3">Send</button>
+                      <div><button type="submit" class="btn fables-second-background-color rounded-0 text-white btn-block p-3">Send</button></div>
                     </form>
                     </div>
 
