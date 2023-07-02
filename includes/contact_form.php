@@ -12,9 +12,10 @@
                           <textarea class="form-control rounded-0 p-3" name="message" placeholder="Message" rows="3"></textarea>
                       </div>   
                       <div class="my-3">
-                <div class="loading">Loading</div>
+                         <!-- /End Top Header -->
+                <!-- <div class="loading">Loading</div>
                 <div class="error-message"></div>
-                <div class="sent-message">Your message has been sent. Thank you!</div>
+                <div class="sent-message">Your message has been sent. Thank you!</div> -->
               </div>                    
                       <button type="submit" class="btn fables-second-background-color rounded-0 text-white btn-block p-3">Send</button>
                     </form>
