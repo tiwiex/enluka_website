@@ -68,6 +68,32 @@
                                         </ul>
                                     </li> 
                                     <li class="nav-item dropdown">
+                                        <a class="nav-link dropdown-toggle" href="#" id="sub-nav6" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                            Industries
+                                        </a>
+                                        <ul class="dropdown-menu" aria-labelledby="sub-nav6">
+                                            <li><a class="dropdown-item" href="digital_transformation">Retail & Fast-Moving Consumer Goods (FMCG)
+</a></li>
+                                            <li><a class="dropdown-item" href="business_transformation">Financial Services
+</a></li>
+                                            <li><a class="dropdown-item" href="business_transformation">Charity</a></li>
+                                            <li><a class="dropdown-item" href="business_transformation">Telecommunications
+</a></li>
+                                            <li><a class="dropdown-item" href="business_transformation">Energy, Resources & Utilities
+
+</a></li>
+                                            <li><a class="dropdown-item" href="business_transformation">Healthcare & Pharmaceuticals
+
+</a></li>
+                                            <li><a class="dropdown-item" href="business_transformation">Business IT Services
+
+</a></li>
+                                            <li><a class="dropdown-item" href="business_transformation">Travel & Hospitality 
+
+</a></li>
+                                        </ul>
+                                    </li> 
+                                    <li class="nav-item dropdown">
                                         <a class="nav-link" href="contact_us" id="sub-nav7" aria-haspopup="true" aria-expanded="false">
                                             Contact Us
                                         </a>

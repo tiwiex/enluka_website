@@ -21,6 +21,9 @@
     <!-- Bootstrap CSS --> 
     <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="assets/vendor/bootstrap/css/bootstrap-4-navbar.css" rel="stylesheet">
+    <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/vendor/bootstrap/css/bootstrap-4-navbar.css" rel="stylesheet">
+    <link href="assets/vendor/bootstrap/css/bootstrap.min.css.map" rel="stylesheet">
     <!-- portfolio filter gallery -->
     <link href="assets/vendor/portfolio-filter-gallery/portfolio-filter-gallery.css" rel="stylesheet">
     <!-- FANCY BOX -->
