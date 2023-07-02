@@ -117,6 +117,9 @@
   background: #7b27d8;
 }
 
+.d-block {
+  display: block !important;
+}
 @keyframes animate-loading {
   0% {
     transform: rotate(0deg);
