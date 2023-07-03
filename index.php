@@ -116,8 +116,33 @@ include 'includes/header.php'
                         Enluka Consulting is a worldwide, innovative Technology Consultancy Company, operating in the United Kingdom, Ghana, South Africa, and Nigeria. <br><br>
     We design digital customer experiences and products. <br><br>We build new IT and data infrastructures, introduce modern processes, and challenge teams to work (together) in a different way. We provide all the skills and knowledge required to transform your business.
 
+    
                         </div>
+                        <p class="fables-main-text-color font-25 mb-2 wow fadeInLeft">WHY</p>
+                   <h2 class="fables-second-text-color font-35 font-weight-bold wow fadeInLeft">CHOOSE  <span class="fables-main-text-color">US</span></h2>
+                   <p class="fables-forth-text-color mt-4 mb-4">
+                       We care, we take a personalized approach to each customer, and our management team is never more than a phone call or email away. 
+                   </p>  
+                   <div class="position-relative mb-3 wow bounceInDown" data-wow-delay=".3s"> 
+                       <p class="fables-fifth-text-color fables-dots-text">
+                            <span class="fables-dots-circle fables-second-before fables-second-border-color"></span>
+                            Accountability
+                       </p>
+                   </div>
+                   <div class="position-relative mb-3 wow bounceInDown" data-wow-delay=".6s">
+                       <p class="fables-fifth-text-color fables-dots-text">
+                            <span class="fables-dots-circle fables-second-before fables-second-border-color"></span>
+                            Empathy 
+                       </p>
+                   </div>
+                   <div class="position-relative mb-3 wow bounceInDown" data-wow-delay=".9s">
+                       <p class="fables-fifth-text-color fables-dots-text">
+                            <span class="fables-dots-circle fables-second-before fables-second-border-color"></span>
+                            Result-Oriented 
+                       </p>
+                   </div>
                     </div>
+                    
                     <div class="col-12 col-sm-6 wow fadeInRight">
                     <h2 class="font-30 font-weight-bold fables-second-text-color">Let's Talk</h2>
     <?php
