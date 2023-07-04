@@ -19,7 +19,6 @@ _
                     
                     <br><br>
                     Enluka Consulting is a worldwide, innovative Technology Consultancy Company, operating in the United Kingdom, Ghana, South Africa, and Nigeria. <br><br>
-    We design digital customer experiences and products. <br><br>We build new IT and data infrastructures, introduce modern processes, and challenge teams to work (together) in a different way. We provide all the skills and knowledge required to transform your business.
                 </p> 
                 
             </div>
