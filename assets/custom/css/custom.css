@@ -2536,19 +2536,19 @@ body{
 .index-3-height-caption{
     margin-top: 25%;
 }
-.index-traingle{
+.index-traingles{
     position: relative;
     overflow: hidden;
 }
-.index-traingle::before{
+.index-traingles::before{
     content: "";
     position: absolute;
     left: 0;
     right: 0;
     width: 0;
 	height: 0;
-	border-bottom: 100vh solid rgba(255,255,255,.75);
-	border-right: 98.5vw solid transparent;
+	border-bottom: 50vh solid rgba(255,255,255,.10);
+	border-right: 49.25vw solid transparent;
     z-index: 3;
     bottom: 0;
 }

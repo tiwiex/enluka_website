@@ -1,7 +1,7 @@
 <?php
 include 'includes/header.php'
 ?>
-        <title> Enluka Consulting  </title>
+        <title> Enluka Consulting Services </title>
     </head>
 
 

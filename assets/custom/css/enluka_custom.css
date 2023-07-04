@@ -1,3 +1,16 @@
+.index-traingle::before{
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  width: 0;
+height: 0;
+border-bottom: 50vh solid rgba(255,255,255,.30);
+border-right: 49.25vw solid transparent;
+  z-index: 3;
+  bottom: 0;
+}
+
 .team-image {
     height: 297px; /* Set the desired height */
     width: 240px; /* Let the width adjust automatically to maintain the aspect ratio */
