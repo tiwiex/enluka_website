@@ -11,6 +11,16 @@ border-right: 49.25vw solid transparent;
   bottom: 0;
 }
 
+.fables-after-overlay-pages.info-box{
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(44,62,79,.1);
+}
+
 .team-image {
     height: 297px; /* Set the desired height */
     width: 240px; /* Let the width adjust automatically to maintain the aspect ratio */

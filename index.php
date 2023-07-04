@@ -121,7 +121,7 @@ include 'includes/header.php'
                         <p class="fables-main-text-color font-25 mb-2 wow fadeInLeft">WHY</p>
                    <h2 class="fables-second-text-color font-35 font-weight-bold wow fadeInLeft">CHOOSE  <span class="fables-main-text-color">US</span></h2>
                    <p class="fables-forth-text-color mt-4 mb-4">
-                       We care, we take a personalized approach to each customer, and our management team is never more than a phone call or email away. 
+                   Welcome to our transformative realm where we empower businesses to innovate, navigate change, and thrive in an ever-evolving landscape.
                    </p>  
                    <div class="position-relative mb-3 wow bounceInDown" data-wow-delay=".3s"> 
                        <p class="fables-fifth-text-color fables-dots-text">
