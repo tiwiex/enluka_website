@@ -174,7 +174,7 @@ Our new world is hyper-connected; change is super-charged; machine intelligence 
                     achieve their data requirements. It must therefore be embedded into every decision, 
                     interaction, and process to unlock real business value. This begins with an effective 
                     approach to generating and gathering data, before refining the data to transform insights 
-                    into actionable business activities.<br><br>
+                    into actionable business activities. <br><br>
                     Alongside the collection, interpretation and migration of data, an effective data strategy 
                     ensures more data capability adoption within your business. It also provides relevant 
                     governance and organisation to drive efficient information sharing and a holistic view of 
