@@ -2536,11 +2536,11 @@ body{
 .index-3-height-caption{
     margin-top: 25%;
 }
-.index-traingles{
+.index-traingle{
     position: relative;
     overflow: hidden;
 }
-.index-traingles::before{
+.index-traingle::before{
     content: "";
     position: absolute;
     left: 0;
