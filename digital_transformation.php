@@ -101,7 +101,7 @@ include 'includes/navigation.php';
 <!-- Start page content -->  
  
 
-<div class="fables-bussiness-section bg-rules">
+<div class="fables-bussiness-section bg-rules" style="background-image: url(assets/custom/enluka_images/digital_transformation1.jpg)">
     <div class="container-fluid">
         <div class="row overflow-hidden">  
             <div class=" py-3 py-lg-0 col-sm-6 offset-sm-6 p-sm-0"> 
@@ -119,7 +119,7 @@ Our new world is hyper-connected; change is super-charged; machine intelligence 
     </div>
 </div>
 
-<div class="bg-rules mb-4 mb-lg-0 py-3 py-lg-0" style="background-image: url(assets/custom/images/mission-img.jpg)">  
+<div class="bg-rules mb-4 mb-lg-0 py-3 py-lg-0" style="background-image: url(assets/custom/enluka_images/digital-execute.jpg)">  
     <div class="container-fluid">             
          <div class="row overflow-hidden">    
              <div class="col-12 col-lg-6 offset-lg-6 p-lg-0">  
@@ -156,7 +156,7 @@ Our new world is hyper-connected; change is super-charged; machine intelligence 
          </div>
    </div>
  </div>
- <div class="bg-rules mb-4 py-3 py-lg-0" style="background-image: url(assets/custom/images/vision-img.jpg)"> 
+ <div class="bg-rules mb-4 py-3 py-lg-0" style="background-image: url(assets/custom/enluka_images/digital-architecture2.jpg)"> 
       <div class="container-fluid">
         <div class="row overflow-hidden"> 
          <div class="col-12 col-lg-6 p-lg-0"> 
@@ -190,7 +190,7 @@ Our new world is hyper-connected; change is super-charged; machine intelligence 
   </div>  
 </div> 
 
-<div class="bg-rules mb-4 mb-lg-0 py-3 py-lg-0" style="background-image: url(assets/custom/images/mission-img.jpg)">  
+<div class="bg-rules mb-4 mb-lg-0 py-3 py-lg-0" style="background-image: url(assets/custom/enluka_images/software-selection1.jpg)">  
     <div class="container-fluid">             
          <div class="row overflow-hidden">    
              <div class="col-12 col-lg-6 offset-lg-6 p-lg-0">  
