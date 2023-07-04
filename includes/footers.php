@@ -16,9 +16,10 @@ _
             <div class="col-12 col-lg-4 mb-4 mb-lg-0">
                 <a href="#" class="fables-second-border-color border-bottom pb-3 d-block mb-3 mt-minus-13"><img src="assets/custom/images/enluka1.png" alt="fables template"></a>
                 <p class="font-15 fables-third-text-color">
-                    t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters. 
+                    
                     <br><br>
-                    t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+                    Enluka Consulting is a worldwide, innovative Technology Consultancy Company, operating in the United Kingdom, Ghana, South Africa, and Nigeria. <br><br>
+    We design digital customer experiences and products. <br><br>We build new IT and data infrastructures, introduce modern processes, and challenge teams to work (together) in a different way. We provide all the skills and knowledge required to transform your business.
                 </p> 
                 
             </div>
