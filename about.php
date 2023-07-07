@@ -120,8 +120,8 @@ include 'includes/navigation.php';
 
                 
        
-           <div class="bg-rules mb-4 mb-lg-0 py-3 py-lg-0" style="background-image: url(assets/custom/images/mission-img-fake.jpg)">  
-               <div class="container-fluid">             
+           <div class="bg-rules mb-4 mb-lg-0 py-3 py-lg-0" style="background-image: url(assets/custom/enluka_images/people-team.jpeg)">  
+               <div class="container-fluid">
                     <div class="row overflow-hidden">    
                         <div class="col-12 col-lg-6 offset-lg-6 p-lg-0">  
                             <div class="fables-vision-overlay fables-after-overlay bg-rules">
@@ -137,7 +137,7 @@ include 'includes/navigation.php';
                     </div>
               </div>
             </div>
-            <div class="bg-rules mb-4 py-3 py-lg-0" style="background-image: url(assets/custom/images/vision-img.jpg)"> 
+            <div class="bg-rules mb-4 py-3 py-lg-0" style="background-image: url(assets/custom/enluka_images/focused-black-girl.jpeg)"> 
                  <div class="container-fluid">
                    <div class="row overflow-hidden"> 
                     <div class="col-12 col-lg-6 p-lg-0"> 
@@ -165,7 +165,7 @@ Since day 1, our success has been built on exceptional results. This comes from 
              </div>  
          </div> 
      
-         <div class="bg-rules mb-4 mb-lg-0 py-3 py-lg-0" style="background-image: url(assets/custom/images/mission-img.jpg)">  
+         <div class="bg-rules mb-4 mb-lg-0 py-3 py-lg-0" style="background-image: url(assets/custom/enluka_images/world-map.jpeg)">  
                <div class="container-fluid">             
                     <div class="row overflow-hidden">    
                         <div class="col-12 col-lg-6 offset-lg-6 p-lg-0">  
@@ -201,208 +201,39 @@ Since day 1, our success has been built on exceptional results. This comes from 
        </div>
 
     <div class="fables-history-carousel">  
-                        <div id="sync2" class="owl-carousel owl-theme">
-                          <div class="item">
-                            <h1>2010</h1>
-                          </div>
-                          <div class="item">
-                            <h1>2011</h1>
-                          </div>
-                          <div class="item">
-                            <h1>2014</h1>
-                          </div> 
-                          <div class="item">
-                            <h1>2016</h1>
-                          </div>
-                          <div class="item">
-                            <h1>2018</h1>
-                          </div>
-                          <div class="item">
-                            <h1>2020</h1>
-                          </div> 
-                        </div>
+      <br><br>
+<hr>
                         <div id="sync1" class="owl-carousel owl-theme">
-                              <div class="item">
-                                   <div class="row">
-                                       <div class="col-12 col-sm-4 mb-4 mb-md-0">
-                                           <div class="card">
-                                              <img class="card-img-top rounded-0 w-100" src="assets/custom/images/img2.jpg" alt="Fables Template">
-                                              <div class="card-body">
-                                                <h5 class="card-title fables-second-text-color">2010</h5>
-                                                <p class="card-text fables-forth-text-color d-sm-none d-md-block font-15">It is a long established fact that a reader will be distracted by the readable content of a page when </p> 
-                                              </div>
-                                            </div>
-                                       </div>
-                                       <div class="col-12 col-sm-4 mb-4 mb-md-0">
-                                           <div class="card">
-                                              <img class="card-img-top rounded-0 w-100" src="assets/custom/images/history-img.jpg" alt="Fables Template">
-                                              <div class="card-body">
-                                                <h5 class="card-title fables-second-text-color">2010</h5>
-                                                <p class="card-text fables-forth-text-color d-sm-none d-md-block font-15">It is a long established fact that a reader will be distracted by the readable content of a page when </p> 
-                                              </div>
-                                            </div>
-                                       </div>
-                                       <div class="col-12 col-sm-4 mb-4 mb-md-0">
-                                           <div class="card">
-                                              <img class="card-img-top rounded-0 w-100" src="assets/custom/images/img3.jpg" alt="Fables Template">
-                                              <div class="card-body">
-                                                <h5 class="card-title fables-second-text-color">2010</h5>
-                                                <p class="card-text fables-forth-text-color d-sm-none d-md-block font-15">It is a long established fact that a reader will be distracted by the readable content of a page when </p> 
-                                              </div>
-                                            </div>
-                                       </div>
-                                       
-                                   </div>
-                              </div>
+                  
+                              
+                             
+                             
+                             
                               <div class="item"> 
                                    <div class="row">
                                        <div class="col-12 col-sm-4 mb-4 mb-md-0">
                                            <div class="card">
-                                              <img class="card-img-top rounded-0 w-100" src="assets/custom/images/history-img.jpg" alt="Fables Template">
+                                              <img class="card-img-top rounded-0 w-100" src="assets/custom/enluka_images/focused-work.jpeg" alt="Fables Template">
                                               <div class="card-body">
-                                                <h5 class="card-title fables-second-text-color">2012</h5>
+                                                <h5 class="card-title fables-second-text-color">2022</h5>
                                                 <p class="card-text fables-forth-text-color d-sm-none d-md-block font-15">It is a long established fact that a reader will be distracted by the readable content of a page when </p> 
                                               </div>
                                             </div>
                                        </div>
                                        <div class="col-12 col-sm-4 mb-4 mb-md-0">
                                            <div class="card">
-                                              <img class="card-img-top rounded-0 w-100" src="assets/custom/images/img3.jpg" alt="Fables Template">
+                                              <img class="card-img-top rounded-0 w-100" src="assets/custom/enluka_images/camera-pic.jpeg" alt="Fables Template">
                                               <div class="card-body">
-                                                <h5 class="card-title fables-second-text-color">2012</h5>
+                                                <h5 class="card-title fables-second-text-color">2022</h5>
                                                 <p class="card-text fables-forth-text-color d-sm-none d-md-block font-15">It is a long established fact that a reader will be distracted by the readable content of a page when </p> 
                                               </div>
                                             </div>
                                        </div>
                                        <div class="col-12 col-sm-4 mb-4 mb-md-0">
                                            <div class="card">
-                                              <img class="card-img-top rounded-0 w-100" src="assets/custom/images/img3.jpg" alt="Fables Template">
+                                              <img class="card-img-top rounded-0 w-100" src="assets/custom/enluka_images/project-management.jpeg" alt="Fables Template">
                                               <div class="card-body">
-                                                <h5 class="card-title fables-second-text-color">2012</h5>
-                                                <p class="card-text fables-forth-text-color d-sm-none d-md-block font-15">It is a long established fact that a reader will be distracted by the readable content of a page when </p> 
-                                              </div>
-                                            </div>
-                                       </div>
-                                   </div> 
-                              </div>
-                              <div class="item"> 
-                                   <div class="row">
-                                       <div class="col-12 col-sm-4 mb-4 mb-md-0">
-                                           <div class="card">
-                                              <img class="card-img-top rounded-0 w-100" src="assets/custom/images/history-img.jpg" alt="Fables Template">
-                                              <div class="card-body">
-                                                <h5 class="card-title fables-second-text-color">2012</h5>
-                                                <p class="card-text fables-forth-text-color d-sm-none d-md-block font-15">It is a long established fact that a reader will be distracted by the readable content of a page when </p> 
-                                              </div>
-                                            </div>
-                                       </div>
-                                       <div class="col-12 col-sm-4 mb-4 mb-md-0">
-                                           <div class="card">
-                                              <img class="card-img-top rounded-0 w-100" src="assets/custom/images/img3.jpg" alt="Fables Template">
-                                              <div class="card-body">
-                                                <h5 class="card-title fables-second-text-color">2012</h5>
-                                                <p class="card-text fables-forth-text-color d-sm-none d-md-block font-15">It is a long established fact that a reader will be distracted by the readable content of a page when </p> 
-                                              </div>
-                                            </div>
-                                       </div>
-                                       <div class="col-12 col-sm-4 mb-4 mb-md-0">
-                                           <div class="card">
-                                              <img class="card-img-top rounded-0 w-100" src="assets/custom/images/img3.jpg" alt="Fables Template">
-                                              <div class="card-body">
-                                                <h5 class="card-title fables-second-text-color">2012</h5>
-                                                <p class="card-text fables-forth-text-color d-sm-none d-md-block font-15">It is a long established fact that a reader will be distracted by the readable content of a page when </p> 
-                                              </div>
-                                            </div>
-                                       </div>
-                                   </div> 
-                              </div> 
-                              <div class="item"> 
-                                   <div class="row">
-                                       <div class="col-12 col-sm-4 mb-4 mb-md-0">
-                                           <div class="card">
-                                              <img class="card-img-top rounded-0 w-100" src="assets/custom/images/history-img.jpg" alt="Fables Template">
-                                              <div class="card-body">
-                                                <h5 class="card-title fables-second-text-color">2012</h5>
-                                                <p class="card-text fables-forth-text-color d-sm-none d-md-block font-15">It is a long established fact that a reader will be distracted by the readable content of a page when </p> 
-                                              </div>
-                                            </div>
-                                       </div>
-                                       <div class="col-12 col-sm-4 mb-4 mb-md-0">
-                                           <div class="card">
-                                              <img class="card-img-top rounded-0 w-100" src="assets/custom/images/img3.jpg" alt="Fables Template">
-                                              <div class="card-body">
-                                                <h5 class="card-title fables-second-text-color">2012</h5>
-                                                <p class="card-text fables-forth-text-color d-sm-none d-md-block font-15">It is a long established fact that a reader will be distracted by the readable content of a page when </p> 
-                                              </div>
-                                            </div>
-                                       </div>
-                                       <div class="col-12 col-sm-4 mb-4 mb-md-0">
-                                           <div class="card">
-                                              <img class="card-img-top rounded-0 w-100" src="assets/custom/images/img3.jpg" alt="Fables Template">
-                                              <div class="card-body">
-                                                <h5 class="card-title fables-second-text-color">2012</h5>
-                                                <p class="card-text fables-forth-text-color d-sm-none d-md-block font-15">It is a long established fact that a reader will be distracted by the readable content of a page when </p> 
-                                              </div>
-                                            </div>
-                                       </div>
-                                   </div> 
-                              </div> 
-                              <div class="item"> 
-                                   <div class="row">
-                                       <div class="col-12 col-sm-4 mb-4 mb-md-0">
-                                           <div class="card">
-                                              <img class="card-img-top rounded-0 w-100" src="assets/custom/images/history-img.jpg" alt="Fables Template">
-                                              <div class="card-body">
-                                                <h5 class="card-title fables-second-text-color">2012</h5>
-                                                <p class="card-text fables-forth-text-color d-sm-none d-md-block font-15">It is a long established fact that a reader will be distracted by the readable content of a page when </p> 
-                                              </div>
-                                            </div>
-                                       </div>
-                                       <div class="col-12 col-sm-4 mb-4 mb-md-0">
-                                           <div class="card">
-                                              <img class="card-img-top rounded-0 w-100" src="assets/custom/images/img3.jpg" alt="Fables Template">
-                                              <div class="card-body">
-                                                <h5 class="card-title fables-second-text-color">2012</h5>
-                                                <p class="card-text fables-forth-text-color d-sm-none d-md-block font-15">It is a long established fact that a reader will be distracted by the readable content of a page when </p> 
-                                              </div>
-                                            </div>
-                                       </div>
-                                       <div class="col-12 col-sm-4 mb-4 mb-md-0">
-                                           <div class="card">
-                                              <img class="card-img-top rounded-0 w-100" src="assets/custom/images/img3.jpg" alt="Fables Template">
-                                              <div class="card-body">
-                                                <h5 class="card-title fables-second-text-color">2012</h5>
-                                                <p class="card-text fables-forth-text-color d-sm-none d-md-block font-15">It is a long established fact that a reader will be distracted by the readable content of a page when </p> 
-                                              </div>
-                                            </div>
-                                       </div>
-                                   </div> 
-                              </div> 
-                              <div class="item"> 
-                                   <div class="row">
-                                       <div class="col-12 col-sm-4 mb-4 mb-md-0">
-                                           <div class="card">
-                                              <img class="card-img-top rounded-0 w-100" src="assets/custom/images/history-img.jpg" alt="Fables Template">
-                                              <div class="card-body">
-                                                <h5 class="card-title fables-second-text-color">2012</h5>
-                                                <p class="card-text fables-forth-text-color d-sm-none d-md-block font-15">It is a long established fact that a reader will be distracted by the readable content of a page when </p> 
-                                              </div>
-                                            </div>
-                                       </div>
-                                       <div class="col-12 col-sm-4 mb-4 mb-md-0">
-                                           <div class="card">
-                                              <img class="card-img-top rounded-0 w-100" src="assets/custom/images/img3.jpg" alt="Fables Template">
-                                              <div class="card-body">
-                                                <h5 class="card-title fables-second-text-color">2012</h5>
-                                                <p class="card-text fables-forth-text-color d-sm-none d-md-block font-15">It is a long established fact that a reader will be distracted by the readable content of a page when </p> 
-                                              </div>
-                                            </div>
-                                       </div>
-                                       <div class="col-12 col-sm-4 mb-4 mb-md-0">
-                                           <div class="card">
-                                              <img class="card-img-top rounded-0 w-100" src="assets/custom/images/img3.jpg" alt="Fables Template">
-                                              <div class="card-body">
-                                                <h5 class="card-title fables-second-text-color">2012</h5>
+                                                <h5 class="card-title fables-second-text-color">2022</h5>
                                                 <p class="card-text fables-forth-text-color d-sm-none d-md-block font-15">It is a long established fact that a reader will be distracted by the readable content of a page when </p> 
                                               </div>
                                             </div>

@@ -136,6 +136,7 @@ Our retail and consumer goods consultants bring a diverse mix of experience whic
 the industry in the European, North American and APAC markets. Connect with us today to find out how we can help you. <br><br>
 <b>How we can help</b><br>
 Whatever the challenge, our team of experts have the tools to build you bespoke, sustainable and market-leading digital solutions that’ll enable you to stay ahead of the game. 
+<br><br>Connect with us today to find out how we can help you.
 
 </p>     
                               </p>
@@ -165,6 +166,7 @@ Whatever the challenge, our team of experts have the tools to build you bespoke,
 <b>How we can help you</b> <br>
 We provide solutions in digital strategy development, product and service innovation, operational, tactile, and digital transformation, 
 and operating models, and regulatory remediation. <br><br>So, no matter the challenge, our team’s industry-leading expertise, coupled with our global, open innovation network, made up of entrepreneurs, startups, venture capital firms and accelerators, can craft you a bespoke, unique and top-of-the-market solution. Connect with us today so we can get started.
+<br><br>Connect with us today to find out how we can help you.
 
                               </p>
                             <a href="" class="btn fables-second-border-color fables-second-text-color fables-btn-rouned fables-hover-btn-color font-19 px-5 py-2 position-relative z-index wow fadeInLeft" data-wow-duration="2s"><span>Contact Us</span></a>
@@ -194,6 +196,7 @@ to ensure you’re reaching your key audience groups. <br><br>
 Our team of industry professionals, experts and entrepreneurs will work with your team to identify problems, 
 then build and implement bespoke, market-leading digital solutions that harness the latest in technology and innovation. 
 <br><br>Not only are your problems solved, you’ll also have the tools to truly stand out and establish a long relationship with a reliable implementation partner. 
+<br><br>Connect with us today to find out how we can help you.
 
                               </p>
                             </div>
@@ -224,7 +227,8 @@ then build and implement bespoke, market-leading digital solutions that harness 
                             advancements like fixed wireless and 5G become viable solutions, competitive barriers are beginning to fall. <br><br>
                             <b>How we can help you</b> <br>
 We ensure that any solution is not only successful, but also truly differentiates you in the market. 
-Let us help you navigate this ever-changing industry, together. Connect with us today.
+Let us help you navigate this ever-changing industry, together.
+<br><br>Connect with us today to find out how we can help you.
 
                               </p>
                             <a href="" class="btn fables-second-border-color fables-second-text-color fables-btn-rouned fables-hover-btn-color font-19 px-5 py-2 position-relative z-index wow fadeInLeft" data-wow-duration="2s"><span>Contact Us</span></a>
@@ -254,6 +258,7 @@ Let us help you navigate this ever-changing industry, together. Connect with us 
                                 and profitability, giving businesses an advantage. <br><br>
                                 <b>How we can help you</b> <br>
 At Enluka we can help create the innovative edge that will put your businesses in front of competitors in this time of change. Connect with us today to find out how.
+<br><br>Connect with us today to find out how we can help you.
 
                               </p>
                             </div>
@@ -281,9 +286,13 @@ At Enluka we can help create the innovative edge that will put your businesses i
                             <p class="fables-forth-text-color position-relative z-index mt-4 mb-4 mb-md-5 wow fadeInLeft" data-wow-duration="2s">
                                   
                             Health Administration | Pharmaceuticals| Medical Equipment & Devices |Biotech
-In the last decade, both public and private healthcare systems have been required to adapt and innovate within strict time frames. Increased pressure has been applied to the global healthcare sector’s operations, infrastructure, supply chains and workforces, revealing social disparities in health and the provision of care. Healthcare providers are tasked with proactively addressing these challenges to balance cost optimisation and offering the best service to their patients.
- How we can help you
+In the last decade, both public and private healthcare systems have been required to adapt and innovate within strict time frames.
+ Increased pressure has been applied to the global healthcare sector’s operations, infrastructure, supply 
+ chains and workforces, revealing social disparities in health and the provision of care. 
+ Healthcare providers are tasked with proactively addressing these challenges to balance cost optimisation and offering the best service to their patients.
+ <br><br><b>How we can help you</b><br>
 Our team of consultants have the tools to build you bespoke, sustainable and market-leading solutions from defining new and disruptive strategies, to building new improving business operating model, to help our clients achieve the seemingly impossible at a rapid pace.
+<br><br>Connect with us today to find out how we can help you.
 
                               </p>
                             <a href="" class="btn fables-second-border-color fables-second-text-color fables-btn-rouned fables-hover-btn-color font-19 px-5 py-2 position-relative z-index wow fadeInLeft" data-wow-duration="2s"><span>Contact Us</span></a>
@@ -306,10 +315,14 @@ Our team of consultants have the tools to build you bespoke, sustainable and mar
                                 <p class="fables-fifth-text-color position-relative z-index mt-4 mb-4 mb-md-5 wow fadeInRight" data-wow-duration="2s">
                                 
                                 Private and Public Service Digital Solution Implementation
-Business services companies are evolving with the adoption of new technologies and processes. Automation is a powerful catalyst for effective delivery to customers and efficient operations. But as with all technologies that enter and sustain in the market, this is becoming a hygiene factor. AI will drive the future. Through technologies such as natural language processing we are already seeing radical acceleration of touchless processing for contract management, insurance claims processing, proposal development and work scheduling in industrial and engineering support services environments.
-How we can help you
+Business services companies are evolving with the adoption of new technologies and processes. 
+Automation is a powerful catalyst for effective delivery to customers and efficient operations. 
+But as with all technologies that enter and sustain in the market, this is becoming a hygiene factor.
+AI will drive the future. Through technologies such as natural language processing we are already 
+seeing radical acceleration of touchless processing for contract management, insurance claims processing, proposal development and work scheduling in industrial and engineering support services environments.
+<br><br><b>How we can help you</b><br>
 Through our business consulting services, we ensure that our clients stay relevant in their business service segment by remaining loyal to a core truth; you can’t out-innovate the market. Get in touch with our team today to find out how we can help you.
-
+<br><br>Connect with us today to find out how we can help you.
                               </p>
                             </div>
 
