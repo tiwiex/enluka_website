@@ -40,7 +40,7 @@ include 'includes/navigation.php';
 
      
 <!-- Start Header Heads -->
-<div class="fables-header fables-after-overlay-pages bg-rules" style="background-image: url(assets/custom/enluka_images/banking.png);">
+<div class="fables-header fables-after-overlay bg-rules" style="background-image: url(assets/custom/enluka_images/banking.png);">
     <div class="container"> 
          <h2 class="fables-page-title fables-second-border-color wow fadeInLeft" data-wow-duration="1.5s">About Us</h2>
     </div>
@@ -120,7 +120,7 @@ include 'includes/navigation.php';
 
                 
        
-           <div class="bg-rules mb-4 mb-lg-0 py-3 py-lg-0" style="background-image: url(assets/custom/images/mission-img.jpg)">  
+           <div class="bg-rules mb-4 mb-lg-0 py-3 py-lg-0" style="background-image: url(assets/custom/images/mission-img-fake.jpg)">  
                <div class="container-fluid">             
                     <div class="row overflow-hidden">    
                         <div class="col-12 col-lg-6 offset-lg-6 p-lg-0">  
