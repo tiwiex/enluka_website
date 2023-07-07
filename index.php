@@ -147,6 +147,7 @@ include 'includes/header.php'
                     <h2 class="font-30 font-weight-bold fables-second-text-color">Let's Talk</h2>
     <?php
     include 'includes/contact_form.php';
+
     ?>
                     </div>
 

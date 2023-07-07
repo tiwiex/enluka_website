@@ -1,12 +1,12 @@
 <form method="POST" action="includes/send_mailer.php" class="php-email-form">
                       <div class="form-group"> 
-                        <input type="text" name="name" class="form-control rounded-0 p-3"  placeholder="Name">   
+                        <input type="text" name="name" class="form-control rounded-0 p-3"  placeholder="Name" value="Taiwo">   
                       </div>
                       <div class="form-group"> 
-                        <input type="email" name="email" class="form-control rounded-0 p-3" placeholder="Email">
+                        <input type="email" name="email" class="form-control rounded-0 p-3" placeholder="Email" value="tiwiex@gmail.com">
                       </div>
                       <div class="form-group"> 
-                        <input type="text" name="subject" class="form-control rounded-0 p-3" placeholder="Subject">   
+                        <input type="text" name="subject" class="form-control rounded-0 p-3" placeholder="Subject" value="Clockwork Orange">   
                       </div>
                       <div class="form-group"> 
                           <textarea class="form-control rounded-0 p-3" name="message" placeholder="Message" rows="3"></textarea>

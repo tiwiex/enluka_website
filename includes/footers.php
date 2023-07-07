@@ -86,3 +86,4 @@ $currentYear = date("Y");
 <script src="assets/vendor/jquery-circle-progress/circle.js"></script>
 <script src="assets/custom/js/custom.js"></script>
 <script src="assets/custom/js/php-email-form/validate.js"></script>
+<script src="assets/vendor1/bootstrap/js/bootstrap.bundle.min.js"></script>
