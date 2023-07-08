@@ -201,7 +201,7 @@ Since day 1, our success has been built on exceptional results. This comes from 
        </div>
 
 
-Taiwo
+
 <?php
 include 'includes/history.php';
 ?>
