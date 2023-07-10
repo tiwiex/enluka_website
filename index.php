@@ -143,13 +143,10 @@ include 'includes/header.php'
                    </div>
                     </div>
                     
-                    <div class="col-12 col-sm-6 wow fadeInRight">
-                    <h2 class="font-30 font-weight-bold fables-second-text-color">Let's Talk</h2>
     <?php
     include 'includes/contact_form.php';
 
     ?>
-                    </div>
 
         </div>
 
@@ -248,7 +245,13 @@ include 'includes/header.php'
 
 
 
+        <?php
+include 'includes/history.php';
+?>
 
+<?php
+include 'includes/companies.php';
+?>
     <!-- /End page content -->
 
     <!-- Start Footer 2 Background Image  -->

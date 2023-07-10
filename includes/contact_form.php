@@ -1,3 +1,5 @@
+<div class="col-12 col-sm-6 wow fadeInRight">
+                    <h2 class="font-30 font-weight-bold fables-second-text-color">Let's Talk</h2>
 <form method="POST" action="includes/send_mailer.php" class="php-email-form">
                       <div class="form-group"> 
                         <input type="text" name="name" class="form-control rounded-0 p-3"  placeholder="Name" value="Taiwo">   
@@ -23,4 +25,5 @@
 
 </div>
 
+</div>
 </div>
