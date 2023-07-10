@@ -3,7 +3,7 @@
     <div class="container">
         <div class="row" id="top-row">
             <div class="col-12 col-sm-5 col-lg-4 text-right">
-                <p class="fables-third-text-color font-13"><span class="fables-iconphone"></span> Phone :  (888) 6000 68888 - (888) 6000 6000</p>
+                <p class="fables-third-text-color font-13"><span class="fables-iconphone"></span> Phone :  +44 747 154 1318</p>
             </div>
             <div class="col-12 col-sm-5 col-lg-3 text-right">
                 <p class="fables-third-text-color font-13"><span class="fables-iconemail"></span> Email: info@enluka.com</p>
