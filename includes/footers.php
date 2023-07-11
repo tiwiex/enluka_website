@@ -27,7 +27,13 @@ _
                 <h2 class="font-20 semi-font fables-second-border-color border-bottom pb-3">Contact us</h2>
                <div class="my-3">
                     <h4 class="font-16 semi-font"><span class="fables-iconmap-icon fables-second-text-color pr-2 font-20 mt-1 d-inline-block"></span> Address Information</h4>
-                    <p class="font-14 fables-fifth-text-color mt-2 ml-4">UK, Nigeria, South Africa</p>
+                    <p class="font-14 fables-fifth-text-color mt-2 ml-4">Head office    <br>
+
+                      Boulevard Point, 15 Scarbrook Road <br> 
+                      Croydon <br>
+                      CR0 1LY <br>
+                      United Kingdom <br><br>
+                       Nigeria, South Africa</p>
                 </div>
                 <div class="my-3">
                     <h4 class="font-16 semi-font"><span class="fables-iconphone fables-second-text-color pr-2 font-20 mt-1 d-inline-block"></span> Call Now </h4>
@@ -39,6 +45,7 @@ _
                 </div>
             </div>
             <div class="col-12 col-sm-6 col-lg-4">
+                
                 <h2 class="font-20 semi-font fables-second-border-color border-bottom pb-3 mb-3">EXPLORE OUR SITE</h2>
                 <ul class="nav fables-footer-links">
                     <li><a href="about">About Us</a></li>
