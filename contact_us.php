@@ -74,7 +74,7 @@ include "includes/navigation.php";
  
      
 <!-- Start Header -->
-<div class="fables-header fables-after-overlay">
+<div class="fables-header fables-after-overlay-pages" style="background-image: url(assets/custom/enluka_images/contact_us_drums.jpeg);">
     <div class="container"> 
          <h2 class="fables-page-title fables-second-border-color">Contact Us</h2>
     </div>
