@@ -191,7 +191,6 @@ Since day 1, our success has been built on exceptional results. This comes from 
                    <img src="assets/custom/images/hp_innovacion2.jpg" alt="Fables Template" class="img-fluid">
                </div>
                <div class="col-12 col-sm-6 wow fadeInRight">
-               <h2 class="font-30 font-weight-bold fables-second-text-color">Let's Talk</h2>
                <?php
                 include 'includes/contact_form.php';
                 ?>

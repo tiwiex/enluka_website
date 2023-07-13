@@ -22,8 +22,3 @@
                       <div><button type="submit" class="btn fables-second-background-color rounded-0 text-white btn-block p-3">Send</button></div>
                     </form>
                     </div>
-
-</div>
-
-</div>
-</div>
