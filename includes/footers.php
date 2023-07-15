@@ -5,7 +5,7 @@ _
         <div class="row">
 
             <div class="col-12 col-lg-4 mb-4 mb-lg-0">
-                <a href="#" class="fables-second-border-color border-bottom pb-3 d-block mb-3 mt-minus-13"><img src="assets/custom/images/enluka1.png" alt="fables template"></a>
+                <a href="#" class="fables-second-border-color border-bottom pb-3 d-block mb-3 mt-minus-13"><img src="assets/custom/images/enluka_logo_d.png" alt="fables template"></a>
                 <p class="font-15 fables-third-text-color">
                     
                     <br><br>

@@ -7,7 +7,7 @@
     <meta name="author" content="Enterprise Development">
     <link rel="shortcut icon" href="assets/custom/images/shortcut.png">
 
-    <link rel="icon" type="image/x-icon" href="assets/custom/images/enluka_icon.png"> 
+    <link rel="icon" type="image/x-icon" href="assets/custom/images/enluka_logo_d.png"> 
     <!-- animate.css-->  
     <link href="assets/vendor/animate.css-master/animate.min.css" rel="stylesheet">
     <!-- Load Screen -->
@@ -34,7 +34,7 @@
     <link href="assets/vendor/owlcarousel/owl.carousel.min.css" rel="stylesheet">
     <link href="assets/vendor/owlcarousel/owl.theme.default.min.css" rel="stylesheet">
     <!-- FABLES CUSTOM CSS FILE -->
-    <link href="assets/custom/css/custom.css" rel="stylesheet">
+    <link href="assets/custom/css/custom_e.css" rel="stylesheet">
     <link href="assets/custom/css/enluka_custom.css" rel="stylesheet">
     <!-- FABLES CUSTOM CSS RESPONSIVE FILE -->
     <link href="assets/custom/css/custom-responsive.css" rel="stylesheet">
