@@ -61,63 +61,10 @@ include 'includes/navigation.php';
 <!-- /End Breadcrumbs -->
      
 <!-- Start page content -->  
-       <div class="container">
-            <div class="my-4 my-md-5 overflow-hidden">
-               
-                <div class="text-center mb-20 wow fadeInDown" data-wow-delay="1s">
-                    <h3 class="fables-about-top-head fables-forth-text-color font-30 semi-font d-inline-block bg-white position-relative">
-                        <span class="mx-4">Our Services</span>
-                    </h3>
-                    <br><br>
-                    <div class="fables-forth-text-color mt-3 font-14">
-                    With values proposition in business strategy consulting, our capabilities range 
-                    from business model innovation to digital transformation, and everything in between.
-                    Alongside the expertise brought in by our brands, we have a unique collection of 
-                    capabilities to enhance every stage of your business journey. <br><br>
-
-                            </div>
-                </div> 
-                    
-                <div class="row">
-                    <div class="col-12 col-md-4 mb-4 mb-md-0 wow fadeInDown" data-wow-delay=".3s">
-                        <div class="fables-about-icon-style"> 
-                            <span class="fables-iconmobileApp-icon fables-second-text-color fa-3x"></span>
-                            <h2 class="fables-second-text-color fables-about-icon-head mt-3 mb-2 font-18 semi-font">Digital Transformation </h2>
-                            <span class="fables-title-border fables-second-background-color"></span>
-                            <div class="fables-forth-text-color mt-3 font-14">
-                                We understand the importance of approaching each work integrally and believe in the power of simple and easy communication.
-                            </div>
-                            <a href="digital_transformation" class="btn fables-second-background-color white-color white-color-hover fables-main-hover-background-color font-15 mt-4 px-5 py-2
-                          ">Read More</a> 
-                        </div>
-                      
-                    </div>  
-                    <div class="col-12 col-md-4 mb-4 mb-md-0 wow fadeInDown" data-wow-delay=".6s">
-                       <div class="fables-about-icon-style">
-                           <span class="fables-icondevelopment-icon fables-second-text-color fa-3x"></span>
-                           <h2 class="fables-second-text-color fables-about-icon-head mt-3 mb-2 font-18 semi-font">Business Improvemt & Transformation</h2>
-                           <span class="fables-title-border fables-second-background-color"></span>
-                           <div class="fables-forth-text-color mt-3 font-14">
-                                We understand the importance of approaching each work integrally and believe in the power of simple and easy communication.
-                            </div>
-                        </div> 
-                    </div>
-                    <div class="col-12 col-md-4 mb-4 mb-md-0 wow fadeInDown" data-wow-delay=".9s">
-                       <div class="fables-about-icon-style"> 
-                            <span class="fables-iconwebDesign-icon fables-second-text-color fa-3x"></span>
-                           <h2 class="fables-second-text-color fables-about-icon-head mt-3 mb-2 font-18 semi-font">Web Design </h2>
-                           <span class="fables-title-border fables-second-background-color"></span>
-                            <div class="fables-forth-text-color mt-3 font-14">
-                              
-                                We understand the importance of approaching each work integrally and believe in the power of simple and easy communication.
-                            </div>
-                        </div> 
-                    </div>
-                </div>
-            </div>
-       </div>
-
-
+      
+    <?php
+    include 'includes/services.php';
+    ?>
                 
        
            <div class="bg-rules mb-4 mb-lg-0 py-3 py-lg-0" style="background-image: url(assets/custom/enluka_images/people-team.jpeg)">  
