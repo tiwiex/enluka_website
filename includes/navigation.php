@@ -48,6 +48,7 @@
                                         <ul class="dropdown-menu" aria-labelledby="sub-nav6">
                                             <li><a class="dropdown-item" href="digital_transformation">Digital Transformation</a></li>
                                             <li><a class="dropdown-item" href="business_transformation">Business Improvement & Transformation</a></li>
+                                            <li><a class="dropdown-item" href="cloud_services">Cloud Services</a></li>
                                         </ul>
                                     </li> 
                                     <li class="nav-item dropdown">
