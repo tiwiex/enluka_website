@@ -50,7 +50,7 @@ _
             <div class="col-12 col-sm-6 col-lg-4">
                 
                 <h2 class="font-20 semi-font fables-second-border-color border-bottom pb-3 mb-3">EXPLORE OUR SITE</h2>
-                <ul class="nav fables-footer-links">
+                <ul class="nav fables-footer-links ">
                     <li><a href="about">About Us</a></li>
                     <li><a href="gallery.html">Services</a></li>
                     <li><a href="team.html">Industries</a></li>

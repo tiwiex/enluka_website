@@ -1,7 +1,8 @@
 <?php
-include 'includes/header.php'
+include 'includes/header.php';
 ?>
-        <title> Enluka Consulting Services - Services - Cloud Services </title>
+
+        <title> <?= $config_data['site_title']; ?>  - Services - Cloud Services </title>
     </head>
 
 
@@ -71,7 +72,7 @@ include 'includes/navigation.php';
         <div class="row overflow-hidden">  
             <div class=" py-3 py-lg-0 col-sm-6 offset-sm-6 p-sm-0"> 
                 <div class="fables-bussiness-caption p-4" >
-                    <h1 class="fables-second-text-color my-0 font-30 font-weight-bold position-relative z-index wow fadeInRight" data-wow-duration="2s">Cloud Services  
+                    <h1 class="fables-page-sub fables-second-text-color my-0 font-30 font-weight-bold position-relative z-index wow fadeInRight" data-wow-duration="2s">Cloud Services  
                     </h1>
                     <div class="fables-forth-text-color position-relative z-index  mt-4 mb-5  wow fadeInRight" data-wow-duration="2s">
                     Every business needs a different cloud strategy as every industry has unique requirements. 

@@ -209,10 +209,27 @@ body{
     padding-left: 16px;
     margin-top: 108px;
     line-height: 80px;
-    font-size: 40px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 30px;
     font-weight: 700;
     margin-bottom: 47px;
 }
+
+.fables-page-sub {
+    color: #fff;
+    border-left-style: solid;
+    border-left-width: 6px;
+    z-index: 1;
+    position: relative;
+    padding-left: 16px;
+    margin-top: 18px;
+    line-height: 40px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 30px;
+    font-weight: 900;
+    margin-bottom: 20px;
+}
+
 .fables-top-header-signin{
     height: 40px;
     line-height: 38px;
@@ -910,7 +927,7 @@ body{
     width: 24px;
     height: 24px;
     margin: 0 10px -6px 0;
-    border: 3px solid #867EEE;
+    border: 3px solid #18d26e;
     border-top-color: #eee;
     transition: all 0.5s ease-in;
     animation: animate-loading 1s linear infinite;
@@ -2887,7 +2904,7 @@ a:hover , .btn-link:hover{
     background-color: #2C3E4F !important;
 }
 .fables-main-text-color{
-    color: #2C3E4F ;
+    color: #fff ;
 }
 .fables-main-hover-color:hover  {
     color: #2C3E4F ;

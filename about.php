@@ -72,7 +72,7 @@ include 'includes/navigation.php';
                     <div class="row overflow-hidden">    
                         <div class="col-12 col-lg-6 offset-lg-6 p-lg-0">  
                             <div class="fables-vision-overlay fables-after-overlay bg-rules">
-                                <h2 class="fables-second-text-color my-0 font-30 font-weight-bold position-relative z-index wow fadeInRight" data-wow-duration="2s">Who we are</h2>
+                                <h2 class="fables-page-sub fables-second-text-color my-0 font-30 font-weight-bold position-relative z-index wow fadeInRight" data-wow-duration="2s">Who we are</h2>
                                 <p class="fables-fifth-text-color position-relative z-index mt-4 mb-4 mb-md-5 wow fadeInRight" data-wow-duration="2s">
                                 Our experience spans diverse industries, locations, and organization sizes. We’ve supported £5B global companies as well as smaller, high-growth businesses.  
                             Our clients are progressive and ambitious industry disruptors looking to take their business growth to next digital stage. Whether they’re looking for human capital management, supply chain management, or ERP software, we’ve supported organizations like yours.
@@ -89,7 +89,7 @@ include 'includes/navigation.php';
                    <div class="row overflow-hidden"> 
                     <div class="col-12 col-lg-6 p-lg-0"> 
                         <div class="fables-vision-overlay fables-after-overlay fables-light-overlay bg-rules">
-                            <h2 class="fables-second-text-color my-0 font-30 font-weight-bold position-relative z-index wow fadeInLeft" data-wow-duration="2s">Our Core Values</h2>
+                            <h2 class="fables-page-sub fables-second-text-color my-0 font-30 font-weight-bold position-relative z-index wow fadeInLeft" data-wow-duration="2s">Our Core Values</h2>
                             <p class="fables-forth-text-color position-relative z-index mt-4 mb-4 mb-md-5 wow fadeInLeft" data-wow-duration="2s">
                                   
                               <b>Accountability</b>  <br>
@@ -117,7 +117,7 @@ Since day 1, our success has been built on exceptional results. This comes from 
                     <div class="row overflow-hidden">    
                         <div class="col-12 col-lg-6 offset-lg-6 p-lg-0">  
                             <div class="fables-vision-overlay fables-after-overlay bg-rules">
-                                <h2 class="fables-second-text-color my-0 font-30 font-weight-bold position-relative z-index wow fadeInRight" data-wow-duration="2s">Who We Work With</h2>
+                                <h2 class="fables-page-sub fables-second-text-color my-0 font-30 font-weight-bold position-relative z-index wow fadeInRight" data-wow-duration="2s">Who We Work With</h2>
                                 <p class="fables-fifth-text-color position-relative z-index mt-4 mb-4 mb-md-5 wow fadeInRight" data-wow-duration="2s">
                                 Our experience spans diverse industries, locations, and organization sizes. We’ve supported £5B global companies as well as smaller, high-growth businesses.Our clients are progressive and ambitious industry disruptors looking to take their business growth to next digital stage. Whether they’re looking for human capital management, supply chain management, or ERP software, we’ve supported organizations like yours.</p>     
                               </p>

@@ -14,7 +14,7 @@
                        </div>
                        <div class="text-center"> 
                           <div>
-                          <a href="https://www.glofert.com/" target=_blank><img src="assets/custom/enluka_images/companies/glofert1.png" alt="Fables Template" class="border-hover fables-partner-carousel-img company-image"></a>
+                          <a href="https://www.glofert.com/" target=_blank><img src="assets/custom/enluka_images/companies/glofert1`    .png" alt="Fables Template" class="border-hover fables-partner-carousel-img company-image"></a>
                           </div> 
                        </div>
                        <div class="text-center"> 
@@ -30,5 +30,6 @@
                 </div> 
              </div>
         </div>
+</div>
 </div>
 </div>

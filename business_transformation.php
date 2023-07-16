@@ -1,42 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="Fables">
-    <meta name="author" content="Enterprise Development">
-    <link rel="shortcut icon" href="assets/custom/images/shortcut.png">
+<?php
+include 'includes/header.php'
+?>
 
-    <title>Enluka - Digital Transformation</title>
-    
-    <!-- animate.css-->  
-    <link href="assets/vendor/animate.css-master/animate.min.css" rel="stylesheet">
-    <!-- Load Screen -->
-    <link href="assets/vendor/loadscreen/css/spinkit.css" rel="stylesheet">
-    <!-- GOOGLE FONT -->
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
-    <!-- Font Awesome 5 -->
-    <link href="assets/vendor/fontawesome/css/fontawesome-all.min.css" rel="stylesheet">
-    <!-- Fables Icons -->
-    <link href="assets/custom/css/fables-icons.css" rel="stylesheet"> 
-    <!-- Bootstrap CSS --> 
-    <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <link href="assets/vendor/bootstrap/css/bootstrap-4-navbar.css" rel="stylesheet">
-    <!-- portfolio filter gallery -->
-    <link href="assets/vendor/portfolio-filter-gallery/portfolio-filter-gallery.css" rel="stylesheet">
-    <!-- FANCY BOX -->
-    <link href="assets/vendor/fancybox-master/jquery.fancybox.min.css" rel="stylesheet"> 
-    <!-- RANGE SLIDER -->
-    <link href="assets/vendor/range-slider/range-slider.css" rel="stylesheet">
-    <!-- OWL CAROUSEL  --> 
-    <link href="assets/vendor/owlcarousel/owl.carousel.min.css" rel="stylesheet">
-    <link href="assets/vendor/owlcarousel/owl.theme.default.min.css" rel="stylesheet">
-    <!-- FABLES CUSTOM CSS FILE -->
-    <link href="assets/custom/css/custom.css" rel="stylesheet">
-    <link href="assets/custom/css/custom.css" rel="stylesheet">
-    <!-- FABLES CUSTOM CSS RESPONSIVE FILE -->
-    <link href="assets/custom/css/custom-responsive.css" rel="stylesheet">
-     
+    <title> <?= $config_data['site_title']; ?>  - Digital Transformation</title>
+   
 </head>
 
 
@@ -78,7 +45,7 @@ include 'includes/navigation.php';
 <!-- Start Header -->
 <div class="fables-header fables-after-overlay bg-rules">
     <div class="container"> 
-         <h2 class="fables-page-title fables-second-border-color wow fadeInLeft" data-wow-duration="1.5s">Services - Business Improvement & Transformation</h2>
+         <h2 class="fables-page-title fables-second-border-color wow fadeInLeft"  data-wow-duration="1.5s">Services - Business Improvement & Transformation</h2>
     </div>
 </div>  
 <!-- /End Header -->
@@ -106,7 +73,7 @@ include 'includes/navigation.php';
         <div class="row overflow-hidden">  
             <div class=" py-3 py-lg-0 col-sm-6 offset-sm-6 p-sm-0"> 
                 <div class="fables-bussiness-caption p-4" >
-                    <h1 class="fables-second-text-color my-0 font-30 font-weight-bold position-relative z-index wow fadeInRight" data-wow-duration="2s">Business Transformation Consulting  
+                    <h1 class="fables-page-sub fables-second-text-color my-0 font-20 font-weight-bold position-relative z-index wow fadeInRight" data-wow-duration="2s">Business Transformation Consulting  
                     </h1>
                     <div class="fables-forth-text-color position-relative z-index  mt-4 mb-5  wow fadeInRight" data-wow-duration="2s">
                         Digital empowerment brings people, business and technology together. <br><br>
@@ -124,7 +91,7 @@ Our new world is hyper-connected; change is super-charged; machine intelligence 
          <div class="row overflow-hidden">    
              <div class="col-12 col-lg-6 offset-lg-6 p-lg-0">  
                  <div class="fables-vision-overlay fables-after-overlay bg-rules">
-                     <h2 class="fables-second-text-color my-0 font-22 position-relative z-index wow fadeInRight" data-wow-duration="2s">Target Operating Model (TOM) Consulting
+                     <h2 class="fables-page-sub fables-second-text-color my-0 font-22 position-relative z-index wow fadeInRight" data-wow-duration="2s">Target Operating Model (TOM) Consulting
                     </h2>
                      <p class="fables-fifth-text-color position-relative z-index mt-4 mb-4 mb-md-5 wow fadeInRight" data-wow-duration="2s">
                      A Target Operating Model (TOM) provides a high-level representation of how an organisation 
@@ -154,7 +121,7 @@ but creating a roadmap that enables you to implement the change.
         <div class="row overflow-hidden"> 
          <div class="col-12 col-lg-6 p-lg-0"> 
              <div class="fables-vision-overlay fables-after-overlay fables-light-overlay bg-rules">
-                 <h2 class="fables-second-text-color my-0 font-22  position-relative z-index wow fadeInLeft" data-wow-duration="2s">Transformation Management Consulting
+                 <h2 class="fables-page-sub fables-second-text-color my-0 font-22  position-relative z-index wow fadeInLeft" data-wow-duration="2s">Transformation Management Consulting
                     </h2>
                  <p class="fables-forth-text-color position-relative z-index mt-4 mb-4 mb-md-5 wow fadeInLeft" data-wow-duration="2s">
                  Working from the bottom up, our target operating model also seeks to strengthen our clients’ operational base, 
@@ -183,7 +150,7 @@ This process includes ensuring that all supporting processes, operations infrast
          <div class="row overflow-hidden">    
              <div class="col-12 col-lg-6 offset-lg-6 p-lg-0">  
                  <div class="fables-vision-overlay fables-after-overlay bg-rules">
-                     <h2 class="fables-second-text-color my-0 font-22 position-relative z-index wow fadeInRight" data-wow-duration="2s">Business Process Management
+                     <h2 class="fables-page-sub fables-second-text-color my-0 font-22 position-relative z-index wow fadeInRight" data-wow-duration="2s">Business Process Management
                     </h2>
                      <p class="fables-fifth-text-color position-relative z-index mt-4 mb-4 mb-md-5 wow fadeInRight" data-wow-duration="2s">
                      Effective operational processes are crucial to any business. 
@@ -208,7 +175,7 @@ This process includes ensuring that all supporting processes, operations infrast
         <div class="row overflow-hidden"> 
          <div class="col-12 col-lg-6 p-lg-0"> 
              <div class="fables-vision-overlay fables-after-overlay fables-light-overlay bg-rules">
-                 <h2 class="fables-second-text-color my-0 font-22  position-relative z-index wow fadeInLeft" data-wow-duration="2s">Supply Chain Management
+                 <h2 class="fables-page-sub fables-second-text-color my-0 font-22  position-relative z-index wow fadeInLeft" data-wow-duration="2s">Supply Chain Management
                     </h2>
                  <p class="fables-forth-text-color position-relative z-index mt-4 mb-4 mb-md-5 wow fadeInLeft" data-wow-duration="2s">
                  Optimized supply chain management is one of the most crucial strategies a business can have in today’s global environment. Our consultants help clients understand whether a supply chain management system is needed or if their problems can be fixed through other means, such as diversifying vendors, implementing new resources, or investigating new raw materials.
@@ -235,13 +202,10 @@ This process includes ensuring that all supporting processes, operations infrast
                 <div class="col-12 col-sm-6 wow fadeInLeft">
                     Contact Form
                 </div>
-                <div class="col-12 col-sm-6 wow fadeInRight">
-                    <h2 class="font-30 font-weight-bold fables-second-text-color">Let's Talk</h2>
                 <?php
-                include 'email_form.php';
+                include 'includes/contact_form.php';
                 ?>
          
-        </div>   
 
     </div> 
     

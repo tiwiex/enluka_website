@@ -1,7 +1,7 @@
 <?php
 include 'includes/header.php'
 ?>
-        <title> Enluka Consulting Services - Services - Digital Transformation </title>
+        <title>  <?= $config_data['site_title']; ?>  - Services - Digital Transformation </title>
     </head>
 
 
@@ -71,7 +71,7 @@ include 'includes/navigation.php';
         <div class="row overflow-hidden">  
             <div class=" py-3 py-lg-0 col-sm-6 offset-sm-6 p-sm-0"> 
                 <div class="fables-bussiness-caption p-4" >
-                    <h1 class="fables-second-text-color my-0 font-30 font-weight-bold position-relative z-index wow fadeInRight" data-wow-duration="2s">Digital Transformation Consulting  
+                    <h1 class="fables-page-sub fables-second-text-color my-0 font-22 font-weight-bold position-relative z-index wow fadeInRight" data-wow-duration="2s">Digital Transformation Consulting  
                     </h1>
                     <div class="fables-forth-text-color position-relative z-index  mt-4 mb-5  wow fadeInRight" data-wow-duration="2s">
                         Digital empowerment brings people, business and technology together. <br><br>
@@ -89,7 +89,7 @@ Our new world is hyper-connected; change is super-charged; machine intelligence 
          <div class="row overflow-hidden">    
              <div class="col-12 col-lg-6 offset-lg-6 p-lg-0">  
                  <div class="fables-vision-overlay fables-after-overlay bg-rules">
-                     <h2 class="fables-second-text-color my-0 font-22 position-relative z-index wow fadeInRight" data-wow-duration="2s">Define and Execute Digital Transformation Strategy
+                     <h2 class="fables-page-sub fables-second-text-color my-0 font-22 position-relative z-index wow fadeInRight" data-wow-duration="2s">Define and Execute Digital Transformation Strategy
                     </h2>
                      <p class="fables-fifth-text-color position-relative z-index mt-4 mb-4 mb-md-5 wow fadeInRight" data-wow-duration="2s">
                         Remaining competitive in an ever-evolving market is a key challenge for every business. So what’s the secret? It starts with continuously 
@@ -126,7 +126,7 @@ Our new world is hyper-connected; change is super-charged; machine intelligence 
         <div class="row overflow-hidden"> 
          <div class="col-12 col-lg-6 p-lg-0"> 
              <div class="fables-vision-overlay fables-after-overlay fables-light-overlay bg-rules">
-                 <h2 class="fables-second-text-color my-0 font-22  position-relative z-index wow fadeInLeft" data-wow-duration="2s">Data Architecture and Integration Strategy
+                 <h2 class="fables-page-sub fables-second-text-color my-0 font-22  position-relative z-index wow fadeInLeft" data-wow-duration="2s">Data Architecture and Integration Strategy
                     </h2>
                  <p class="fables-forth-text-color position-relative z-index mt-4 mb-4 mb-md-5 wow fadeInLeft" data-wow-duration="2s">
                     A single view of your customer and an aligned business vision, supported by 
@@ -160,7 +160,7 @@ Our new world is hyper-connected; change is super-charged; machine intelligence 
          <div class="row overflow-hidden">    
              <div class="col-12 col-lg-6 offset-lg-6 p-lg-0">  
                  <div class="fables-vision-overlay fables-after-overlay bg-rules">
-                     <h2 class="fables-second-text-color my-0 font-22 position-relative z-index wow fadeInRight" data-wow-duration="2s">Software Selection
+                     <h2 class="fables-page-sub fables-second-text-color my-0 font-22 position-relative z-index wow fadeInRight" data-wow-duration="2s">Software Selection
                     </h2>
                      <p class="fables-fifth-text-color position-relative z-index mt-4 mb-4 mb-md-5 wow fadeInRight" data-wow-duration="2s">
                      Stand out amongst your competitors, keep users satisfied, and attract new customers by taking a holistic approach to software development. Including 

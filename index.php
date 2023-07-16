@@ -91,7 +91,7 @@ include 'includes/header.php'
 
     
                         </div>
-                        <p class="fables-main-text-color font-25 mb-2 wow fadeInLeft">WHY</p>
+                        <p class="fables-forth-text-color font-25 mb-2 wow fadeInLeft">WHY</p>
                    <h2 class="fables-second-text-color font-35 font-weight-bold wow fadeInLeft">CHOOSE  <span class="fables-main-text-color">US</span></h2>
                    <p class="fables-forth-text-color mt-4 mb-4">
                    Welcome to our transformative realm where we empower businesses to innovate, navigate change, and thrive in an ever-evolving landscape.
@@ -131,7 +131,7 @@ include 'includes/header.php'
                 <div class="row">
                 <div class="col-12 col-md-10 offset-md-1 col-lg-8 offset-lg-2">
                     <div class="text-center">
-                        <h2 class="fables-main-text-color font-35 font-weight-bold mb-4">Our Projects & Success Stories</h2>
+                        <h2 class="fables-forth-text-color font-35 font-weight-bold mb-4">Our Projects & Success Stories</h2>
                         <p class="fables-forth-text-color">
 
                         </p>
@@ -209,7 +209,7 @@ include 'includes/header.php'
 
                         </div>
                         <div class="text-center">
-                            <a href="#" class="btn fables-main-border-color fables-main-text-color mt-md-4 px-5 py-2 fables-btn-rounded fables-main-hover-background-color white-color-hover">Show All Projects</a>
+                            <a href="#" class="btn fables-main-border-color fables-forth-text-color mt-md-4 px-5 py-2 fables-btn-rounded fables-main-hover-background-color white-color-hover">Show All Projects</a>
                         </div>
                 </div>
         </div>
