@@ -51,10 +51,10 @@
                                         </ul>
                                     </li> 
                                     <li class="nav-item dropdown">
-                                        <a class="nav-link dropdown-toggle" href="#" id="sub-nav6" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        <a class="nav-link dropdown-toggle" href="industries" id="sub-industries" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                             Industries
                                         </a>
-                                        <ul class="dropdown-menu" aria-labelledby="sub-nav6">
+                                        <ul class="dropdown-menu" aria-labelledby="sub-industries">
                                             <li><a class="dropdown-item" href="industries#retail">Retail & Fast-Moving Consumer Goods (FMCG)
 </a></li>
                                             <li><a class="dropdown-item" href="industries#financial">Financial Services
