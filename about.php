@@ -137,11 +137,9 @@ Since day 1, our success has been built on exceptional results. This comes from 
                <div class="col-12 col-sm-6 p-sm-0 mb-3 mb-md-0 image-container translate-effect-right wow fadeInLeft" data-wow-durationn="2.5s">
                    <img src="assets/custom/images/hp_innovacion2.jpg" alt="Fables Template" class="img-fluid">
                </div>
-               <div class="col-12 col-sm-6 wow fadeInRight">
                <?php
                 include 'includes/contact_form.php';
                 ?>
-               </div>
            </div>
            
        </div>
