@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Fables">
     <meta name="author" content="Enterprise Development">
-    <link rel="shortcut icon" href="assets/custom/images/shortcut.png">
+    <link rel="shortcut icon" href="assets/custom/images/enluka_logo_d.png">
 
     <link rel="icon" type="image/x-icon" href="assets/custom/images/enluka_logo_d.png"> 
     <!-- animate.css-->  
