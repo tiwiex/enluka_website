@@ -910,7 +910,7 @@ body{
     width: 24px;
     height: 24px;
     margin: 0 10px -6px 0;
-    border: 3px solid #18d26e;
+    border: 3px solid #867EEE;
     border-top-color: #eee;
     transition: all 0.5s ease-in;
     animation: animate-loading 1s linear infinite;
