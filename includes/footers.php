@@ -44,7 +44,7 @@ _
                 </div>
                 <div class="my-3">
                     <h4 class="font-16 semi-font"><span class="fables-iconemail fables-second-text-color pr-2 font-20 mt-1 d-inline-block"></span> Mail </h4>
-                    <p class="font-14 fables-fifth-text-color mt-2 ml-4">enquiries@enluka.org.uk</p>
+                    <p class="font-14 fables-fifth-text-color mt-2 ml-4">info@enluka.org.uk</p>
                 </div>
             </div>
             <div class="col-12 col-sm-6 col-lg-4">
