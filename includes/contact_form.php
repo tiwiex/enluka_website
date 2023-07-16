@@ -2,13 +2,13 @@
       <h2 class="fables-second-text-color font-35 font-weight-bold wow fadeInLeft">Let's  <span class="fables-main-text-color">Talk</span></h2>
       <form method="POST" action="includes/send_mailer.php" class="fables-contact-form">
                       <div class="form-group"> 
-                        <input type="text" name="name" class="form-control rounded-0 p-3"  placeholder="Name">   
+                        <input type="text" name="name" class="form-control rounded-0 p-3"  placeholder="Name" required>   
                       </div>
                       <div class="form-group"> 
-                        <input type="email" name="email" class="form-control rounded-0 p-3" placeholder="Email">
+                        <input type="email" name="email" class="form-control rounded-0 p-3" placeholder="Email" required>
                       </div>
                       <div class="form-group"> 
-                        <input type="text" name="subject" class="form-control rounded-0 p-3" placeholder="Subject">   
+                        <input type="text" name="subject" class="form-control rounded-0 p-3" placeholder="Subject" required>   
                       </div>
                       <div class="form-group"> 
                           <textarea class="form-control rounded-0 p-3" name="message" placeholder="Message" rows="3"></textarea>
