@@ -493,6 +493,12 @@ body{
 .fables-team-data-hover{
     overflow: hidden;
 }
+
+.card-img-ne{
+    width: 100px;
+    height: 25%;
+
+}
 .fables-team-data-hover .card-body {
     position: absolute;
     bottom: -45%;

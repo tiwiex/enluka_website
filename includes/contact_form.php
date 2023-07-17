@@ -1,6 +1,6 @@
   <br>
   <div class="col-12 col-sm-6 wow fadeInRight overflow-hidden">
-      <h2 class="fables-page-sub fables-second-text-color font-35 font-weight-bold wow fadeInLeft">Let's  <span class="fables-forth-text-color">Talk</span></h2>
+      <h2 class="fables-page-sub fables-second-text-color font-35 font-weight-bold wow fadeInLeft">Let's  <span class="fables-forth-text-color">Talk & Grow Together</span></h2>
       <form method="POST" action="includes/send_mailer.php" class="fables-contact-form">
                       <div class="form-group"> 
                         <input type="text" name="name" class="form-control rounded-0 p-3"  placeholder="Name" required>   

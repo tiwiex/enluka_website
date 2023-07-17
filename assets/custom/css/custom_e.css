@@ -205,7 +205,7 @@ body{
     background-color: rgba(44,62,79,.7);
     padding-left: 47px;
     padding-bottom: 20px;
-    
+
 }
 .fables-page-title {
     color: #fff;
@@ -1157,6 +1157,13 @@ body{
     margin: 5px 3px;
     background: #D6D6D6; 
 }
+
+.card-img-news{
+    width: 100px;
+    height: 25%;
+
+}
+
 .latest-news-img-block {
     position: relative;
 }

@@ -326,7 +326,7 @@ to provide bespoke services to our clients across a spectrum of sectors and chal
            
        </div>
        <?php
-include 'includes/history.php';
+include 'includes/news_industries.php';
 ?>
 <!-- /End page content -->
     
