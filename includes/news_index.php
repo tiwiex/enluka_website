@@ -1,6 +1,6 @@
 <div class="container">
 <div class="fables-latest-news">
-           <h2 class="fables-forth-text-color fables-light-background-color mb-3 mb-lg-5 p-3 font-18 semi-font">Latest News</h2> 
+           <h2 class="fables-forth-text-color fables-light-background-color mb-3 mb-lg-5 p-3 font-18 semi-font">Project Stories</h2> 
            <div class="row">
                <div class="col-12 col-sm-6 col-lg-4"> 
                    <div class="latest-news-img-block" style="background-image:url(assets/custom/images/post-1.jpg);background-size: cover"> 
