@@ -217,8 +217,9 @@ include 'includes/header.php'
 
 
         <?php
-        
+
 include 'includes/history.php';
+include 'includes/news_index.php';
 ?>
 
 <?php

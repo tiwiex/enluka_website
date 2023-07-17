@@ -26,7 +26,7 @@
                                            <div class="card">
                                               <img class="card-img-top card-img-news rounded-0 w-100" src="assets/custom/enluka_images/camera-pic.jpeg" alt="Fables Template">
                                               <div class="card-body">
-                                                <h5 class="card-title fables-second-text-color">2022</h5>
+                                                <h5 class="card-title fables-second-text-color">Our Diverse Team</h5>
                                                 <p class="card-text fables-forth-text-color d-sm-none d-md-block font-15">It is a long established fact that a reader will be distracted by the readable content of a page when </p> 
                                               </div>
                                             </div>
