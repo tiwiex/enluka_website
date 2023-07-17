@@ -82,7 +82,7 @@ include 'includes/header.php'
         <div class="container">
     <div class="row mb-4 mb-md-5 overflow-hidden">
                     <div class="col-12 col-sm-6 wow fadeInLeft">
-                   <h2 class="fables-second-text-color font-35 font-weight-bold wow fadeInLeft">ABOUT  <span class="fables-main-text-color">ENLUKA</span></h2>
+                   <h2 class="fables-page-sub fables-second-text-color font-35 font-weight-bold wow fadeInLeft">ABOUT  <span class="fables-main-text-color">ENLUKA</span></h2>
                         <div class="fables-forth-text-color position-relative z-index  mt-4 mb-5  wow fadeInRight" data-wow-duration="2s">
                         Enluka Consulting is a worldwide, innovative Technology Consultancy Company, operating in the United Kingdom, Ghana, South Africa, and Nigeria. <br><br>
     We design digital customer experiences and products. <br><br>We build new IT and data infrastructures, introduce modern processes, and challenge teams to work (together) in a different way. We provide all the skills and knowledge required to transform your business.
@@ -90,7 +90,7 @@ include 'includes/header.php'
     
                         </div>
                         <p class="fables-forth-text-color font-25 mb-2 wow fadeInLeft">WHY</p>
-                   <h2 class="fables-second-text-color font-35 font-weight-bold wow fadeInLeft">CHOOSE  <span class="fables-main-text-color">US</span></h2>
+                   <h2 class="fables-page-sub fables-second-text-color font-35 font-weight-bold wow fadeInLeft">CHOOSE  <span class="fables-main-text-color">US</span></h2>
                    <p class="fables-forth-text-color mt-4 mb-4">
                    Welcome to our transformative realm where we empower businesses to innovate, navigate change, and thrive in an ever-evolving landscape.
                    </p>  
@@ -217,6 +217,7 @@ include 'includes/header.php'
 
 
         <?php
+        
 include 'includes/history.php';
 ?>
 

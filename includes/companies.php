@@ -1,6 +1,6 @@
 <div class="fables-blog-slider py-4 py-lg-5 fables-light-background-color"> 
 <div class="container">
-<h2 class="font-30 font-weight-bold fables-second-text-color">Our Clients</h2>
+<h2 class="fables-page-sub font-30 font-weight-bold fables-second-text-color">Our Clients</h2>
 
 
 <div class="fables-light-background-color  py-3 py-md-4 py-lg-5">
