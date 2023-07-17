@@ -1,6 +1,6 @@
 <!-- Start Footer 2 Background Image  -->
 _
-<div class="fables-footer-image fables-after-overlay white-color py-4 py-lg-5 bg-rules">
+<div class="fables-footer-image fables-after-overlay white-color py-4 py-lg-5 bg-rules"  style="background-image: url(assets/custom/enluka_images/fibre_optics.jpeg);">
     <div class="container">
         <div class="row">
 
