@@ -79,7 +79,7 @@ include 'includes/header.php'
     
         
 
-        <div class="container">
+    <div class="container">
     <div class="row mb-4 mb-md-5 overflow-hidden">
                     <div class="col-12 col-sm-6 wow fadeInLeft">
                    <h2 class="fables-page-sub fables-second-text-color font-35 font-weight-bold wow fadeInLeft">ABOUT  <span class="fables-main-text-color">ENLUKA</span></h2>
@@ -121,10 +121,8 @@ include 'includes/header.php'
 
         </div>
 
-    </div>
 
 
-        <br><br>
         
 
 
