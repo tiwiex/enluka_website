@@ -46,24 +46,22 @@ include 'includes/header.php'
             <div class="row">
                 <div class="col-md-10 col-lg-7 mr-auto index-carousel">
                     <div class="owl-carousel owl-theme default-carousel nav-0 z-index mt-md-4 mt-xl-5 pt-md-4 pt-xl-5 dots-0 pb-md-5">
-                        <div class="pt-0 mt-0 pt-xl-5 mt-xl-5 wow slideInUp" data-wow-duration="2s" data-wow-delay=".4s">
-                            <h1 class="fables-main-text-color font-weight-bold mb-1">CONSULTING SERVICE FOR ALL
-                                <span class="fables-second-text-color">DIGITAL TRANSFORMATION</span>
-                            </h1>
-                            <p class="fables-forth-text-colo mb-3 light-font fables-header-slider-details">
+                        <div class="pt-0 mt-0 pt-xl-5 mt-xl-5 wow slideInUp hero-bg" data-wow-duration="2s" data-wow-delay=".4s">
+                            <h1 class="fables-page-sub fables-main-text-color font-weight-bold mb-1">CONSULTING SERVICE FOR ALL</h1>
+                                <span class="fables-page-sub fables-second-text-color">DIGITAL TRANSFORMATION</span>
+                            
+                            <p class="fables-main-text-color mb-3 light-font fables-header-slider-details">
                             Digital empowerment brings people, business and technology together
                             </p>
-                            <a href="about" class="btn fables-second-background-color fables-second-border-color white-color rounded-0 mr-4 px-3 px-md-4 py-2 bg-hover-transparent fables-second-hover-color">Our Services</a>
-                            <a href="digital_transformation" class="btn fables-second-border-color fables-second-text-color rounded-0 px-3 px-md-4 py-2 fables-second-hover-background-color">Learn More</a>
+                            <a href="digital_transformation" class="btn fables-second-background-color fables-second-border-color white-color rounded-0 mr-4 px-3 px-md-4 py-2 bg-hover-transparent fables-second-hover-color">Read More</a>
                         </div>
-                        <div class="pt-0 mt-0 pt-xl-5 mt-xl-5 wow slideInUp" data-wow-duration="2s" data-wow-delay=".8s">
-                            <h1 class="fables-main-text-color font-weight-bold mb-1">CONSULTING SERVICE FOR ALL
-                                <span class="fables-second-text-color">BUSINESS TRANSFORMATION</span>
-                            </h1>
+                        <div class="pt-0 mt-0 pt-xl-5 mt-xl-5 wow slideInUp hero-bg" data-wow-duration="2s" data-wow-delay=".8s">
+                            <h1 class="fables-page-sub fables-main-text-color font-weight-bold mb-1">CONSULTING SERVICE FOR ALL</h1>
+                                <span class="fables-page-sub fables-second-text-color">BUSINESS TRANSFORMATION</span>
+                            
                             <p class="fables-forth-text-colo mb-3 light-font fables-header-slider-details">
                             </p>
-                            <a href="about" class="btn fables-second-background-color fables-second-border-color white-color rounded-0 mr-4 px-3 px-md-4 py-2 bg-hover-transparent fables-second-hover-color">Our Services</a>
-                            <a href="business_transformation" class="btn fables-second-border-color fables-second-text-color rounded-0 px-3 px-md-4 py-2 fables-second-hover-background-color">Learn More</a>
+                            <a href="business_transformation" class="btn fables-second-background-color fables-second-border-color white-color rounded-0 mr-4 px-3 px-md-4 py-2 bg-hover-transparent fables-second-hover-color">Read More</a>
                         </div>
                     </div>
                 </div>

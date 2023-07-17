@@ -200,6 +200,12 @@ body{
     -webkit-transition: all ease-in-out .5s;
     -moz-transition: all ease-in-out .5s;
 }
+
+.hero-bg{
+    background-color: rgba(44,62,79,.7);
+    padding-left: 47px;
+    padding-bottom: 20px;
+}
 .fables-page-title {
     color: #fff;
     border-left-style: solid;
