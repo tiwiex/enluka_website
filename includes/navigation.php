@@ -15,7 +15,7 @@
  
 <!-- /End Top Header -->
 <!-- Start Fables Navigation -->
-<div class="fables-navigation fables-main-background-color py-3 py-lg-0">
+<div class="fables-navigation fables-dark-background-color py-3 py-lg-0">
     <div class="container">
                <div class="row">
                    <div class="col-12 col-md-10 col-lg-9 pr-md-0">                       
