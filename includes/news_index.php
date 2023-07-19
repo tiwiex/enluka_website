@@ -35,7 +35,7 @@
                       <a href="" class="fables-main-text-color fables-second-hover-color">2</a> 
                   </div>
                   <p class="fables-forth-text-color font-14 mb-3">
-                  As we understand environmental challeges, we are working on a proof of concept to seamlessly implements
+                  As we understand environmental challenges, we are working on a proof of concept to seamlessly implements
                                                 a warehouse that seamlessly fits into many healthcare environments </p> 
                   </p>
                 <a href="business_transformation" class="btn fables-second-background-color fables-second-border-color white-color rounded-0 mr-4 px-3 px-md-4 py-2 bg-hover-transparent fables-second-hover-color">Read More</a>

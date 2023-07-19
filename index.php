@@ -130,7 +130,6 @@ include 'includes/header.php'
         <?php
 
 include 'includes/news_index.php';
-include 'includes/news_industries.php';
 ?>
 
 <?php
