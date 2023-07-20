@@ -35,7 +35,7 @@
     <link href="assets/vendor/owlcarousel/owl.carousel.min.css" rel="stylesheet">
     <link href="assets/vendor/owlcarousel/owl.theme.default.min.css" rel="stylesheet">
     <!-- FABLES CUSTOM CSS FILE -->
-    <link href="assets/custom/css/custom_e.css?v=00012" rel="stylesheet">
+    <link href="assets/custom/css/custom_e.css?v=00014" rel="stylesheet">
     <link href="assets/custom/css/enluka_custom.css" rel="stylesheet">
     <!-- FABLES CUSTOM CSS RESPONSIVE FILE -->
     <link href="assets/custom/css/custom-responsive.css" rel="stylesheet">

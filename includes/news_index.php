@@ -42,86 +42,8 @@
 
                </div>
                <div class="col-12 col-lg-4 mt-4 mt-lg-0">
-                   <div class="mb-4">
-                       <div class="row">
-                           <div class="col-4"> 
-                                <a href="#"><img src="assets/custom/images/blog-cat1.jpg" alt="" class="w-100"></a>
-                           </div>
-                           <div class="col-8 pl-0">
-                               <a href="#" class="fables-forth-text-color semi-font fables-second-hover-color">LUIS LEATHER DRIVING MOCCASINS FROM ... </a>
-                              <div class="fables-forth-text-color font-14 mb-2">                                  
-                                  <span class="fables-icondata fables-second-text-color mr-1"></span> 
-                                  <span class="mr-2 mr-sm-3"> 09 Novemberr, 2018 </span>
-                                  <span class="fables-iconcomment fables-second-text-color mr-1"></span> 
-                                  <a href="" class="fables-main-text-color fables-second-hover-color">2</a> 
-                              </div>
-                           </div>
-                       </div>
-                   </div>
-                   <div class="mb-4">
-                       <div class="row">
-                           <div class="col-4">
-                               <a href="#"><img src="assets/custom/images/blog-cat2.jpg" alt="" class="w-100"></a>
-                           </div>
-                           <div class="col-8 pl-0">
-                               <a href="#" class="fables-forth-text-color semi-font fables-second-hover-color">LUIS LEATHER DRIVING MOCCASINS FROM ... </a>
-                              <div class="fables-forth-text-color font-14 mb-2">                                  
-                                  <span class="fables-icondata fables-second-text-color mr-1"></span> 
-                                  <span class="mr-2 mr-sm-3"> 09 November, 2018 </span>
-                                  <span class="fables-iconcomment fables-second-text-color mr-1"></span> 
-                                  <a href="" class="fables-main-text-color fables-second-hover-color">2</a> 
-                              </div>
-                           </div>
-                       </div>
-                   </div>
-                   <div class="mb-4">
-                       <div class="row">
-                           <div class="col-4">
-                               <a href="#"><img src="assets/custom/images/blog-cat3.jpg" alt="" class="w-100"></a>
-                           </div>
-                           <div class="col-8 pl-0">
-                               <a href="#" class="fables-forth-text-color semi-font fables-second-hover-color">LUIS LEATHER DRIVING MOCCASINS FROM ... </a>
-                              <div class="fables-forth-text-color font-14 mb-2">                                  
-                                  <span class="fables-icondata fables-second-text-color mr-1"></span> 
-                                  <span class="mr-2 mr-sm-3"> 09 November, 2018 </span>
-                                  <span class="fables-iconcomment fables-second-text-color mr-1"></span> 
-                                  <a href="" class="fables-main-text-color fables-second-hover-color">2</a> 
-                              </div>
-                           </div>
-                       </div>
-                   </div>
-                   <div class="mb-4">
-                       <div class="row">
-                           <div class="col-4">
-                               <a href="#"><img src="assets/custom/images/blog-cat4.jpg" alt="" class="w-100"></a>
-                           </div>
-                           <div class="col-8 pl-0">
-                               <a href="#" class="fables-forth-text-color semi-font fables-second-hover-color">LUIS LEATHER DRIVING MOCCASINS FROM ... </a>
-                              <div class="fables-forth-text-color font-14 mb-2">                                  
-                                  <span class="fables-icondata fables-second-text-color mr-1"></span> 
-                                  <span class="mr-2 mr-sm-3"> 09 November, 2018 </span>
-                                  <span class="fables-iconcomment fables-second-text-color mr-1"></span> 
-                                  <a href="" class="fables-main-text-color fables-second-hover-color">2</a> 
-                              </div>
-                           </div>
-                       </div>
-                   </div>
-                   <div class="mb-4">
-                       <div class="row">
-                           <div class="col-4">
-                               <a href="#"><img src="assets/custom/images/blog-cat5.jpg" alt="" class="w-100"></a>
-                           </div> 
-                           <div class="col-8 pl-0">
-                               <a href="#" class="fables-forth-text-color semi-font fables-second-hover-color">LUIS LEATHER DRIVING MOCCASINS FROM ... </a>
-                              <div class="fables-forth-text-color font-14 mb-2">                                  
-                                  <span class="fables-icondata fables-second-text-color mr-1"></span> 
-                                  <span class="mr-3"> 09 November, 2018 </span>
-                                  <span class="fables-iconcomment fables-second-text-color mr-1"></span> 
-                                  <a href="" class="fables-main-text-color fables-second-hover-color">2</a> 
-                              </div>
-                           </div>
-                       </div>
-                   </div>
+                   <div class="latest-news-overlay" style="background-image:url(assets/custom/enluka_images/project_stories1.jpeg);"> 
+                   <img src="assets/custom/enluka_images/project_stories1.jpeg" alt="Italian Trulli">
                </div>
            </div>
       </div>
