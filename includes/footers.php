@@ -12,6 +12,8 @@ _
                     Enluka Consulting is a worldwide, innovative Technology Consultancy Company, operating in the United Kingdom, Ghana, South Africa, and Nigeria. <br><br>
                 </p> 
                 
+          
+                
             </div>
              
             <div class="col-12 col-sm-6 col-lg-4">
@@ -49,13 +51,10 @@ _
             </div>
             <div class="col-12 col-sm-6 col-lg-4">
                 
-                <h2 class="font-20 semi-font fables-second-border-color border-bottom pb-3 mb-3">EXPLORE OUR SITE</h2>
-                <ul class="nav fables-footer-links ">
-                    <li><a href="about">About Us</a></li>
-                    <li><a href="gallery.html">Services</a></li>
-                    <li><a href="team.html">Industries</a></li>
-                    <li> <a href="contact_us">Contact Us</a></li>
-                </ul>
+                <h2 class="font-20 semi-font fables-second-border-color border-bottom pb-3 mb-3">DIRECTION</h2>
+
+          
+            <iframe class="mb-4 mb-lg-0" src="https://www.google.com/maps/embed/v1/place?q=Boulevard+Point,+15+Scarbrook+Road,+Croydon,+UK&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8" frameborder="0" style="border:0; width: 100%; height: 420px;" allowfullscreen></iframe>
             </div>
                       
         </div> 
