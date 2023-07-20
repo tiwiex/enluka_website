@@ -111,9 +111,9 @@ Anwai Road, Asaba
     include 'includes/contact_form.php';
 
     ?>
-                <div class="col-12 col-sm-6 wow fadeInRight">
-                    <div id="map" data-lng="31.248848" data-lat="29.966324" data-icon="assets/custom/images/map-marker.png" data-zom="12" style="width:100%;height:420px"></div>
-                </div>
+          <div class="col-lg-6 ">
+            <iframe class="mb-4 mb-lg-0" src="https://www.google.com/maps/embed/v1/place?q=Boulevard+Point,+15+Scarbrook+Road,+Croydon,+UK&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8" frameborder="0" style="border:0; width: 100%; height: 420px;" allowfullscreen></iframe>
+          </div>
         </div>        
     </div> 
 <!-- /End page content -->
