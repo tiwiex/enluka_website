@@ -39,7 +39,7 @@ include "includes/navigation.php";
  
      
 <!-- Start Header -->
-<div class="fables-header fables-after-overlay-pages" style="background-image: url(assets/custom/enluka_images/contact_us_drums.jpeg);">
+<div class="fables-header fables-after-overlay-pages" style="background-image: url(assets/custom/enluka_images/contact_us_enluka_logo.jpeg);">
     <div class="container"> 
          <h2 class="fables-page-title fables-second-border-color">Contact Us</h2>
     </div>
@@ -76,7 +76,7 @@ include "includes/navigation.php";
                       Croydon <br>
                       CR0 1LY <br>
                       United Kingdom <br><br>
-                       Nigeria, South Africa</p>
+                    </p>
                         </div>
                         <div class="col-12 col-sm-6 col-md-4 text-centers mb-5 mb-md-0 wow fadeInDown" data-wow-delay=".8s">
                             <span class="fables-iconmap-icon fa-3x fables-second-text-color fables-second-hover-color"></span>
@@ -95,7 +95,7 @@ Ghana <br>
                             <p class="font-14 fables-forth-text-color">
 
                             Suite 5, UNIK Plaza, Opposite Government House Fence,
-Anwai Road, Asaba
+Anwai Road, Asaba <br>Delta State <br>Nigeria <br>
 +234 808 609 9391
                         </div>
                     </div>
