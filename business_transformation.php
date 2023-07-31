@@ -203,9 +203,8 @@ This process includes ensuring that all supporting processes, operations infrast
                 include 'includes/contact_form.php';
                 ?>
                 <div class="col-20 col-sm-6 wow fadeInLeft">
-                    Contact Form
+      <h2 class="fables-page-sub fables-second-text-color font-35 font-weight-bold wow fadeInLeft">Map  <span class="fables-forth-text-color">Direction</span></h2>
                 
-                <h2 class="font-20 semi-font fables-second-border-color border-bottom pb-3 mb-3">DIRECTION</h2>
 
           
             <iframe class="mb-4 mb-lg-0" src="https://www.google.com/maps/embed/v1/place?q=Boulevard+Point,+15+Scarbrook+Road,+Croydon,+UK&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8" frameborder="0" style="border:0; width: 100%; height: 420px;" allowfullscreen></iframe>
