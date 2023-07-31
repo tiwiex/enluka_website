@@ -146,9 +146,6 @@ Since day 1, our success has been built on exceptional results. This comes from 
 
 
 
-<?php
-include 'includes/history.php';
-?>
 <!-- /End page content -->
     
 <!-- Start Footer 2 Background Image  -->
