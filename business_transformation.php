@@ -43,7 +43,7 @@ include 'includes/navigation.php';
 
     
 <!-- Start Header -->
-<div class="fables-header fables-after-overlay bg-rules">
+<div class="fables-header fables-after-overlay bg-rules"  style="background-image: url(assets/custom/enluka_images/digital_transformation_people.jpeg);">
     <div class="container"> 
          <h2 class="fables-page-title fables-second-border-color wow fadeInLeft"  data-wow-duration="1.5s">Services - Business Improvement & Transformation</h2>
     </div>
@@ -68,7 +68,7 @@ include 'includes/navigation.php';
 <!-- Start page content -->  
  
 
-<div class="fables-bussiness-section bg-rules">
+<div class="fables-bussiness-section bg-rules" style="background-image: url(assets/custom/enluka_images/project_stories.jpeg);">
     <div class="container-fluid">
         <div class="row overflow-hidden">  
             <div class=" py-3 py-lg-0 col-sm-6 offset-sm-6 p-sm-0"> 
@@ -86,7 +86,7 @@ Our new world is hyper-connected; change is super-charged; machine intelligence 
     </div>
 </div>
 
-<div class="bg-rules mb-4 mb-lg-0 py-3 py-lg-0" style="background-image: url(assets/custom/images/mission-img.jpg)">  
+<div class="bg-rules mb-4 mb-lg-0 py-3 py-lg-0" style="background-image: url(assets/custom/enluka_images/ladies_project.jpeg)">  
     <div class="container-fluid">             
          <div class="row overflow-hidden">    
              <div class="col-12 col-lg-6 offset-lg-6 p-lg-0">  
@@ -116,7 +116,7 @@ but creating a roadmap that enables you to implement the change.
          </div>
    </div>
  </div>
- <div class="bg-rules mb-4 py-3 py-lg-0" style="background-image: url(assets/custom/images/vision-img.jpg)"> 
+ <div class="bg-rules mb-4 py-3 py-lg-0" style="background-image: url(assets/custom/enluka_images/business_man_laptop.jpeg)"> 
       <div class="container-fluid">
         <div class="row overflow-hidden"> 
          <div class="col-12 col-lg-6 p-lg-0"> 
@@ -145,7 +145,7 @@ This process includes ensuring that all supporting processes, operations infrast
   </div>  
 </div> 
 
-<div class="bg-rules mb-4 mb-lg-0 py-3 py-lg-0" style="background-image: url(assets/custom/images/mission-img.jpg)">  
+<div class="bg-rules mb-4 mb-lg-0 py-3 py-lg-0" style="background-image: url(assets/custom/enluka_images/data_centre.jpeg)">  
     <div class="container-fluid">             
          <div class="row overflow-hidden">    
              <div class="col-12 col-lg-6 offset-lg-6 p-lg-0">  
@@ -170,7 +170,7 @@ This process includes ensuring that all supporting processes, operations infrast
  </div>
 
 
- <div class="bg-rules mb-4 py-3 py-lg-0" style="background-image: url(assets/custom/images/vision-img.jpg)"> 
+ <div class="bg-rules mb-4 py-3 py-lg-0" style="background-image: url(assets/custom/enluka_images/digital_calculator.jpeg)"> 
       <div class="container-fluid">
         <div class="row overflow-hidden"> 
          <div class="col-12 col-lg-6 p-lg-0"> 
@@ -199,12 +199,19 @@ This process includes ensuring that all supporting processes, operations infrast
 
 <div class="container">  
 <div class="row mb-4 mb-md-5 overflow-hidden">
-                <div class="col-12 col-sm-6 wow fadeInLeft">
-                    Contact Form
-                </div>
-                <?php
+       <?php
                 include 'includes/contact_form.php';
                 ?>
+                <div class="col-20 col-sm-6 wow fadeInLeft">
+                    Contact Form
+                
+                <h2 class="font-20 semi-font fables-second-border-color border-bottom pb-3 mb-3">DIRECTION</h2>
+
+          
+            <iframe class="mb-4 mb-lg-0" src="https://www.google.com/maps/embed/v1/place?q=Boulevard+Point,+15+Scarbrook+Road,+Croydon,+UK&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8" frameborder="0" style="border:0; width: 100%; height: 420px;" allowfullscreen></iframe>
+                 
+                </div>
+             
          
 
     </div> 
