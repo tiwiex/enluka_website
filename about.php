@@ -1,7 +1,7 @@
 <?php
 include 'includes/header.php'
 ?>
-    <title><?= $config_data['site_title']; ?> - About</title>
+    <title><?= $config_data['site_title']; ?> - About Us</title>
 </head>
 <body>
 
@@ -33,6 +33,7 @@ include 'includes/header.php'
 <!-- Start Top Header -->
 <?php
 include 'includes/navigation.php';
+
 ?>
  
 <!-- /End Top Header -->
