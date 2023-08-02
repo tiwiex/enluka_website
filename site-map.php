@@ -18,8 +18,8 @@ include 'includes/navigation.php';
 ?>
  
 <div class="container">
-<h1>Enluka Sitemap</h1>
-    <ul>
+<h1 class="position-relative font-30 fables-second-text-color">Enluka Sitemap</h1>
+    <ul class="nav fables-blog-cat-list fables-forth-text-color fables-second-hover-color-link">
         <li><a href="/">Home</a></li>
         <li><a href="/about">About Us</a></li>
         <li><a href="/digital_transformation">Digital Transformation</a>
