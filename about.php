@@ -1,7 +1,7 @@
 <?php
 include 'includes/header.php'
 ?>
-    <title><?= $config_data['site_title']; ?> - About Us</title>
+    <title><?= $config_data['site_title']; ?> - About Us </title>
 </head>
 <body>
 
