@@ -1,7 +1,7 @@
 <?php
 include 'includes/header.php'
 ?>
-    <title>Site Map - Enluka Consultancy Service</title>
+    <title>Site Map - <?= $config_data['site_title']; ?></title>
 </head>
 <body>
     <!-- Loading Screen -->

@@ -1,7 +1,7 @@
 <?php
 include 'includes/header.php'
 ?>
-        <title> Welcome to Enluka Consultancy Service </title>
+        <title> Welcome to <?= $config_data['site_title']; ?> </title>
     </head>
 
 
