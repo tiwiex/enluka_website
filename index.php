@@ -56,7 +56,7 @@ include 'includes/header.php'
                             <a href="digital_transformation" class="btn fables-second-background-color fables-second-border-color white-color rounded-0 mr-4 px-3 px-md-4 py-2 bg-hover-transparent fables-second-hover-color">Read More</a>
                         </div>
                         <div class="pt-0 mt-0 pt-xl-5 mt-xl-5 wow slideInUp hero-bg" data-wow-duration="2s" data-wow-delay=".8s">
-                            <h1 class="fables-page-sub fables-main-text-color font-weight-bold mb-1">CONSULTING SERVICE FOR ALL</h1>
+                            <h1 class="fables-page-sub fables-main-text-color font-weight-bold mb-1">CONSULTANCY SERVICE FOR ALL</h1>
                                 <span class="fables-page-sub fables-second-text-color">BUSINESS TRANSFORMATION</span>
                             
                             <p class="fables-forth-text-colo mb-3 light-font fables-header-slider-details">
