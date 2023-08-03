@@ -47,7 +47,7 @@ include 'includes/header.php'
                 <div class="col-md-10 col-lg-7 mr-auto index-carousel">
                     <div class="owl-carousel owl-theme default-carousel nav-0 z-index mt-md-4 mt-xl-5 pt-md-4 pt-xl-5 dots-0 pb-md-5">
                         <div class="pt-0 mt-0 pt-xl-5 mt-xl-5 wow slideInUp hero-bg" data-wow-duration="2s" data-wow-delay=".4s">
-                            <h1 class="fables-page-sub fables-main-text-color font-weight-bold mb-1">CONSULTING SERVICE FOR ALL</h1>
+                            <h1 class="fables-page-sub fables-main-text-color font-weight-bold mb-1">CONSULTANCY SERVICE FOR ALL</h1>
                                 <span class="fables-page-sub fables-second-text-color">DIGITAL TRANSFORMATION</span>
                             
                             <p class="fables-main-text-color mb-3 light-font fables-header-slider-details">
