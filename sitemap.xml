@@ -1,59 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>/</loc>
+        <loc>https://enluka.org.uk/</loc>
         <title>Home</title>
     </url>
     <url>
-        <loc>/about</loc>
+        <loc>https://enluka.org.uk/about</loc>
         <title>About Us</title>
     </url>
     <url>
-        <loc>/digital_transformation</loc>
+        <loc>https://enluka.org.uk/digital_transformation</loc>
         <title>Digital Transformation</title>
     </url>
     <url>
-        <loc>/business_transformation</loc>
+        <loc>https://enluka.org.uk/business_transformation</loc>
         <title>Business Transformation</title>
     </url>
     <url>
-        <loc>/industries</loc>
+        <loc>https://enluka.org.uk/industries</loc>
         <title>Industries</title>
     </url>
     <url>
-        <loc>/industries#retail</loc>
-        <title>Retail and Fast-Moving Consumer Goods (FMCG)</title>
+        <loc>https://enluka.org.uk/industries#retail</loc>
+        <title>Retail & Fast-Moving Consumer Goods (FMCG)</title>
     </url>
     <url>
-        <loc>/industries#financial</loc>
+        <loc>https://enluka.org.uk/industries#financial</loc>
         <title>Financial Services</title>
     </url>
     <url>
-        <loc>/industries#charity</loc>
+        <loc>https://enluka.org.uk/industries#charity</loc>
         <title>Charity</title>
     </url>
     <url>
-        <loc>/industries#telecommunication</loc>
+        <loc>https://enluka.org.uk/industries#telecommunication</loc>
         <title>Telecommunication</title>
     </url>
     <url>
-        <loc>/industries#energy</loc>
-        <title>Energy, Resources, Utilities</title>
+        <loc>https://enluka.org.uk/industries#energy</loc>
+        <title>Energy, Resources & Utilities</title>
     </url>
     <url>
-        <loc>/industries#healthcare</loc>
-        <title>Healthcare and Pharmaceuticals</title>
+        <loc>https://enluka.org.uk/industries#healthcare</loc>
+        <title>Healthcare & Pharmaceuticals</title>
     </url>
     <url>
-        <loc>/industries#business</loc>
+        <loc>https://enluka.org.uk/industries#business</loc>
         <title>Business IT Services</title>
     </url>
     <url>
-        <loc>/industries#travel</loc>
-        <title>Travel and Hospitality</title>
+        <loc>https://enluka.org.uk/industries#travel</loc>
+        <title>Travel & Hospitality</title>
     </url>
     <url>
-        <loc>/contact_us</loc>
+        <loc>https://enluka.org.uk/contact_us</loc>
         <title>Contact Us</title>
     </url>
 </urlset>
