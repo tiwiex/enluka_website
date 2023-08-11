@@ -41,7 +41,7 @@ include 'includes/header.php'
 
 
     <!-- Start Header -->
-    <div class="fables-headers fables-after-overlays overlay-lighters index-traingle bg-rules" style="background-image: url(assets/custom/enluka_images/index-background.jpg);">
+    <div class="fables-headers fables-after-overlays overlay-lighters index-traingle bg-rules" style="background-image: url(assets/custom/enluka_images/hero-statistics.jpeg);">
         <div class="container">
             <div class="row">
                 <div class="col-md-10 col-lg-7 mr-auto index-carousel">
